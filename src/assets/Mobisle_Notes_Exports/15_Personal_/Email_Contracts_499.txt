@@ -1,0 +1,34 @@
+Email Contracts
+Are Emails Legally Binding as Contracts?
+
+When most people think of contracts, they think of agreements between parties committed to writing, and assume that a contract is not valid unless it is on paper, and signed.
+However, the vast majority of contracts are not written, and do not need to be in order for a court to enforce them. A contract is simply an agreement between two or more parties to do something (or refrain from doing something) in exchange for some form of consideration. At the most basic level, an enforceable contract exists if there is an offer by one party, acceptance by the other party, and some exchange of value between them.
+With this in mind, there is no reason why a contract entered into through email should not be enforceable.
+
+Contents
+
+Is an Email Contract Enforceable If There Is No Signature?
+
+Contrary to popular belief, a signature is not required for a contract to be enforceable. The only requirement is that both parties consent to the agreement made. Although a signature is the most reliable way of obtaining consent, it is not the only method. As long as the parties write something which a reasonable person could perceive as acceptance, the email contract will be enforceable.
+Similarly, the consent to the agreement does not have to be on the same email as the agreement(s). It is fully possible for consent to be twenty emails removed from the original agreement and still have the email contract be legally valid.
+
+Are There Any Exceptions or Issues Involved with Contracting by Email?
+
+Note that a very small subset of contracts must be committed to writing in order to be enforced. These include contracts for the sale of real estate, contracts which, by their terms, cannot be performed in 1 year or less, contracts to assume the debt of another person, and contracts for the sale of goods priced at $500 or more.
+One of the issues that might come up involves the authenticity of the emails between the parties. If one party wants out of a contract, they can plausibly claim that someone else accessed their email account, and entered the contract for them. However, other evidence should be able to resolve most of these issues fairly easily.
+Likewise, party may claim that they didn’t know the email was a contract. However, the issue of mutual assent is usually resolved by adding in a line that reads: “sender intends to use and rely on this email as a valid contract” or something similar. Since the court’s assumption is that the receiver actually reads a contract before agreeing to anything, including every part of the contract, then the burden of proof shifts to the receiver to explain why he or she didn’t know the email was a valid contract.
+There may be some issue as to whether or not emails are written or oral contracts. An email cannot count as an oral contract since the person answering the email cannot always be authenticated as the principal to the agreement and the primarily evidence used to prove that an oral contract exists, witnesses, are of little help in this context. Thus many jurisdictions may rule that email contracts are written contracts.
+For most purposes, however, a contract that is entered into through email will be enforced by a court.
+
+Find the Right Business Lawyer
+Hire the right lawyer near your location
+
+FIND MY LAWYER NOW!
+
+Can Emails Amend Existing Contracts?
+
+The response can differ between jurisdictions. Since many contracts require that a written and signed agreement is made before a contract can be amended, the question of whether an email can amend a contract will depend on whether the email is a written contract.
+Other jurisdictions can decide that the use of email to amend a contract violates the statute of frauds found in many contracts. The statute’s purpose is to prevent fraudulent conduct from injuring the parties. Using email to amend a legal contract when many people use email in an informal and casual manner can be interpreted as a fraudulent means to change an otherwise valid contract.   
+
+
+https://bizfluent.com/info-8017741-oregon-laws-breach-contract.html

@@ -1,0 +1,53 @@
+Hardie Siding 
+https://www.inchcalculator.com/siding-clapboard-calculator/
+
+
+Hardie Fiber Board Dimensions
+
+Common Hardie board sizes and their maximum exposure.NominalExposure
+5.25″4″
+6.25″5″
+7.25″6″
+8.25″7″
+9.25″8″
+12″10.75″
+
+These dimensions are for average styles and materials only, refer to the siding manufacturer for exact specifications.
+
+Estimate the Number of Courses of Siding
+
+The number of courses of siding can be found by dividing the height of the wall in inches by the exposure of the board. Use our feet to inches conversion calculator if you know the height of the building in feet. Siding should be kept 6″ off the ground, account for that when measuring and estimating material.
+
+For example, installing siding with a 4″ exposure on a wall that is 12ft high will take 36 courses of siding.
+12′ × 12″ per ft = 144″
+144 ÷ 4 = 36
+
+It’s likely that a partial course will be needed if the exposure of the board does not divide evenly into the height of the building. In that case, re-calculate the exposure slightly so that each course is even and the top course does not end up being too short.
+
+For example, installing siding with a 7″ exposure on a wall that is 12ft high will take 20.6 courses of siding. Adjust the exposure of the board to be 6.85″ to end up with an even 21 courses.
+12′ × 12″ per ft = 144″
+144 ÷ 7 = 20.6
+144 ÷ 20.6 = 6.85
+
+144 ÷ 5 
+144 ÷ 28.5 = 5 SF
+Estimate Linear Feet
+
+Estimate the number of linear feet of siding needed by multiplying the width of the wall in feet by the number of courses. Boards are most commonly sold in 12′ lengths, though 16′ and 20′ lengths can often be ordered. Divide the linear footage by 12′ to find the number of boards needed to cover the wall.
+
+For example, installing 21 courses of siding on a 20′ wide wall will require 420 linear feet of siding, or 35 boards.
+21 × 20 = 420
+420 ÷ 12 = 35
+
+Learn more about how to calculate linear feet.
+
+How to Estimate Gable Walls
+
+Finding the number of boards needed for a gable is fairly simple. Simply multiply the height and width of the gable and estimate the linear footage like you would for a rectangle using the width and height. Divide in half to get the linear footage needed to cover a the triangular area.
+
+For example, installing 21 courses of siding on a 20′ wide gable will require 210 linear feet of siding, or 18 boards.
+21 × 20 = 420
+420 ÷ 2 = 210
+210 ÷ 12 = 17.5 – round up to 18
+
+Consider ordering additional material for offcuts needed for the angle.

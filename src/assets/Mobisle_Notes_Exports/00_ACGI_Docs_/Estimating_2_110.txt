@@ -1,0 +1,33 @@
+Estimating 2
+net before taxes for a 10M/year company is a much stronger financial position than 10% net before taxes for a 1M/year company. My 'book' below explains how.
+
+Your fixed overhead items are things such as office supplies, rent, office salaries, etc.
+
+Variable overhead are items such as cell phones, uniforms, health and vehicle insurance.
+
+Up to a certain point, adding more workers in the field will not change your fixed overhead, only your variable overhead. Your overhead overall goes up, but as a smaller percentage per worker as you add more workers. 
+
+Take cell phones for example. If you supply one phone per crew, the first crew would require a contract with a carrier and an equipment purchase. Say that is $700.00 for the first year ($50.00/month for plan, $100.00 once for the phone).
+
+The second crew would require an equipment purchase, ($100.00) but not a new plan, only a change to the existing plan (@$20.00 month). 
+
+So, cell phone costs per crew/year with one crew = $700.00
+
+Cell phone costs per crew/year with two crews = $520.00
+
+Now lets say each crew can do 200 installs a year at $100.00 per install. That is $20,000.00 per year in Gross sales with one crew, $40,000.00 with two.
+
+700/20000 = 3.5% of Gross sales in cell phone costs with one crew and;
+1040/40000 = 2.6% of Gross sales in cell phone costs with two crews.
+
+Now your overall costs went up by $340.00 per year for cell phones, but in terms of a percentage of Gross Sales, they actually went down 0.9%.
+
+Adding a third crew doesn't really make that great a difference; about another 0.6%.
+
+1380/60000 = 2.3% of Gross Sales in cell phone costs with three crews.
+
+Now, what is all this doing to your profit? Well assuming you have enough work for these crews, these savings in percentages should show up in your bottom line. Its not going to be 1:1 ratio on the percents, but it will be on the dollars. Every dollar you save in variable costs is a dollar that can go into benefits or profit.
+
+BTW, your 10% net profit does not remain fixed. Unless you allocate those extra dollars away from profit, they will be counted as profit. Your 10% profit is a manipulated target, not a result of serendipity. You're manipulating your monies to keep your profit at 10%, but I think you know that. I think the sharing the extra profit with the employees is a great thing.
+
+Hope this helps

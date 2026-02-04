@@ -1,0 +1,111 @@
+ACGIHOMES.COM
+
+On Sat, Jan 18, 2020, 2:11 PM Dero Domogalla wrote
+
+Services:
+
+Okay on the services, I will set them up as you listed them, I will have to figure a better way to display and lay them out on your site.  Otherwise the scrolling will be too much.
+
+Maybe we could go with the original clumping of svcs idea or something engaging & visually stunning to look at?
+
+Invoices:
+
+Should we have a built in Invoice form to be able to bill clients directly? 
+
+We can, this needs a well thought out and secure process. 
+
+Please Forget the invoices section, too much work. Although we did discuss this in length in the past for quite some time dot-...
+
+
+Too much work? 
+
+It is a lot of work.  Multiple weeks of testing and debugging. 
+
+
+I cant afford it at the moment.
+
+
+I got a Ferrandino and son invoice format and a regular ACGI INVOICE FORMAT so there could be 3 forms to start that are easy to fill in and email out? 
+
+If we incorporate this it will be a section in your site manager connected to your leads / contacts list.  It will be a single form you fill out and then choose a template for how you want it to look when it is emailed to the customer.
+
+
+Can I send you my own Template or utilize an existing ACGI form I sent to you if we decide yes on this in the future or are you going to create your own templates off the net somewhere? SMS Assist was the other template. I forgot to say. 
+
+
+Let me know if this is feasible or realistic to ask about incorporating into the site, for logged in confirmed users?
+
+Unless you begin accepting payments via the website I do not believe we will have a login process for customers.  We will have their email via the contact form if they used it to contact you.  Otherwise you will enter the email when you use the aforementioned invoice system.
+
+
+I would like to get to that point, is that very difficult to deploy?
+
+Keep It Simple Sir Dero. No login less hassles. Sign up only? 
+
+Can we create a Monthly email blast to entire contacts database?  
+
+
+I have a huge database of contacts I need to input data into it on your server at some point in the future, cool? What format do you need it in to upload? 
+
+Criteria:
+
+Name 1st & Last
+
+Email
+
+Optional: Phone
+
+Preferred contact method
+
+
+
+User Database?
+
+I already have a "Leads" table for anyone that contacted you via the website form.  I would think it would be a good idea to fill in this leads table with customers you get via phone or other systems (yelp, BBB, word of mouth). 
+
+
+How will that transpire & function please clarify? Can we eventually integrate the contacts database alongside this database or leads table?
+
+
+ Log ins or is it, site data tracking like Google analytics integration?
+
+Google analytics is fine.  We will have to use their webmaster system to get you higher in the Search engine rankings.
+
+
+Thats coding related or Keyword Data,Tags, SEO, or?
+
+
+Subcontractor agreements:  
+
+I understand what you are asking for here.  "Sign up to be a subcontractor"
+
+I'm uncertain as to the legality of filling and signing online however.  This is a discussion for after we launch the fundamentals.
+
+
+Fair Enough sounds reasonable.  
+
+
+
+Full automation of your business through your site and manager is the ultimate goal I would assume.
+
+
+
+Who am I to argue with you? You assume correctly. Its like this, if you're running ACGI what would you like to see happen to run a smooth flowing highly efficient organization?
+
+
+With future growth & expansion in mind? Gradually Building adding & integration as needs morph into fully automated systems you design & build w/ as little little time sucking activities as possible so I can do what I do best. Help people, serve, construct, beautify ugly substrates...
+
+
+
+Your business information:
+
+There is no reason why you need to list all business / personal information on the web to "feel" reputable.  Include whatever you are comfortable with.
+
+
+Name, phone, info@acgihomes.com & several click to buy options or save 10% off next purchase after 1st contract is completed, action items, customer engagement tools... 
+
+
+payment options cc, checks, visa, mc, discover information,  square space or app like it w card reader.
+
+
+financing options available. Had a company in place but customers never asked about it ever, not once.  Need a New 1...

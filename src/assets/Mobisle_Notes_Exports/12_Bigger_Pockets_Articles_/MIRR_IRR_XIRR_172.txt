@@ -1,0 +1,74 @@
+MIRR IRR XIRR
+Analyzing Rich Dad Poor Dad Investing Principles—Are They Still Good?
+
+by Ben Leybovich | BiggerPockets.com
+
+A fellow investor from Arizona, Shiloh Lundahl, posted a thread recently on the forums entitled Rich Dad investing principles — good or bad?  While the book Rich Dad Poor Dad is oftimes credited as having shined the light on many principles of personal finance and REI, the question is posed: Is it legit? Is the book that sold millions of copies — and the advice therein — actually legit?
+
+A Look Back at the Book
+
+Kidding aside, this is actually a very interesting question. Rich Dad Poor Dad was eye-opening for a lot of us. The interesting thing, though, is that while after having done a couple of deals, many of us felt like we were given the keys to the kingdom. Years and many hard knocks later, those of us still standing are now aware of how lacking (to say the least) — and possibly even misleading — Rich Dad Poor Dad actually is. Quite literally, unless you find a way to break away from that original mentality, your efforts could amount to treading water (if you are lucky), and lots of pain (if you are less lucky).
+
+I suppose, in the spirit of intellectual honesty, we must preface this conversation with acknowledging that Rich Dad Poor Dad was likely never intended to be a true how-to manual with any valid technical data — nor viable investment advice. Likely, the book was intended only as a big-picture motivational and inspirational tool. And as such, it was a complete and total success. And I, for one, have nothing but positive commentary to offer. After all, the book certainly motivated a slew of investors.
+
+However, continuing with this line of intellectual honesty, let us acknowledge that beyond being motivated, many of us started out with the belief that within the pages of that book was a bonafide formula — an actual, intellectually cohesive, mathematically stable formula for investing in rentals.
+
+If you believe that, you are shit out of luck.
+
+The image of real estate investing painted in the book is highly misleading from the technical and mechanical standpoints. And there are many items we could mention here, but there is one falsehood stand stands out more so than anything else. Frankly, I am not at all sure that even if this had been properly addressed in the book, that I’d have been able to internalize it. After all, our capacity to understand is tied to our intellectual worth, which in turn is tied to our experiences. I didn’t have any…
+
+Thirteen years later, here are some thoughts for you.
+
+Related: Book Review: Rich Dad Poor Dad
+
+Rentals Are For Cash Flow
+
+I understood this to be the central message in the book. Whether you don’t want to punch the clock (which was the case for Brandon Turner because he hated being a bank teller) or you can’t work (which was the story Ben Leybovich) passive cash flow from the rentals will pay your ticket, according to the book. Even in the accompanying board game, Cashflow, winning is a function of buying enough rentals to equal or exceed the amount of monthly liabilities. Whether in the book or the game, the main message is cash flow.
+
+This was my understanding. Maybe you saw something different. But this is how my intellectual worth lead me to interpret the messaging, which influenced my thinking to focus exclusively on the cash flow.
+
+I am willing to bet this is how most of you think about rentals.
+
+Unfortunately, this is wrong.
+
+
+
+We Buy Income Property for Appreciation
+
+This is something sophisticated players figure out sooner or later. The best way I can illustrate this to you is like this: Suppose you have a small six-unit apartment building. You bought it five years back. You financed 100 percent of it because you read articles by Ben Leybovich. It cash flows about $500 per month. Nothing special. But nothing wrong with it. Rich Dad would approve.
+
+You get an offer to sell it. You worked hard to get the building. You like having it. You were looking for cash flow, and that’s what you’ve got. And with no money in the deal, to boot.
+
+But, you realize that between the appreciated equity and principal pay-down, you would put in your pocket a x15 multiple on your annual cash flow if you do sell. In other words, if you sell, you’d get 15 years worth of cash flow prepaid.
+
+Do you sell? Or, would you hold and keep the cash flow?
+
+Don’t answer yet.
+
+Related: Life-Changing Lessons From 9 Awesome Real Estate Books
+
+Time Value
+
+Maybe you already know this, but for those who don’t, time value is a concept that alludes to the reality that there is a time and place when value of everything is maximized. This is as true with money as it is with food and relationships. For instance, if you read one of my articles before you are ready to internalize what’s in it, not only will you miss the point, but you will likely think of me as a jerk. I promise, I am not a jerk — you may simply be reading my stuff at a time that is not appropriate. Perhaps, sometime in the future, you’ll re-read these things and think highly of them. Time value is the concept.
+
+As this relates to money, the same $5,000 of cash flow 15 years from now is not all the same thing in terms of new preset value (NPV) as it is today. NPV essentially aims to conceive of future cash flows in terms of today’s buying power and opportunity premium.
+
+What this necessarily means is that even if you were able to achieve the same level of cash flows 15 years from now as you can today, and even if you did set enough money aside for capex so that you won’t need to cannibalize the cash flow, the value of these cash flows 15 years from now adjusted to net present value are much lower than you’d think. Indeed, you better plan on making much more cash flow 15 years from now.
+
+Mathematically this is represented with the internal rate of return (IRR), XIRR, and modified internal rate of return (MIRR) (which allows you to select your own discount rate). But, those are more than I want to get into today.
+
+So, Do You Sell?
+
+I did. I sold that six-unit. I had bought it about five years prior. I financed it 100 percent. It made about $6,000 per year of cash flow. But, I sold it and put about $85,000 in my pocket, which I was able to reinvest in a way that doubled my cash flow.
+
+Mathematically, the reason I sold is because doing so represented infinitely higher IRR than not selling. In fact, this was about a 40 percent IRR in 5 years. But, the important syllogism here is this:
+
+Major premise: If we want outsized returns.
+
+Minor premise: If appreciation is necessary to achieve outsized returns.
+
+Conclusion: We must buy for appreciation.
+
+Conclusion
+
+With that said, our “buy” decision has to be based on appreciation. Which, of course, means that if you’re focusing on cash flow as the goal, you’re not doing it right. Cash flow has a lot to do with it, but it’s not the end goal.

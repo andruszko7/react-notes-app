@@ -1,0 +1,10 @@
+Disneyland 
+Alaska  Flight: 338 
+  Depart Portland, OR on Thu, May 31, 2018 8:45 AM 
+  Arrive Orange County, CA on Thu, May 31, 2018 11:05 AM 
+  Duration: 2hrs 20min 
+
+Alaska  Flight: 543 
+  Depart Los Angeles, CA on Mon, Jun 4, 2018 7:30 PM 
+  Arrive Portland, OR on Mon, Jun 4, 2018 9:51 PM 
+  Duration: 2hrs 21min 

@@ -1,0 +1,49 @@
+Desta
+7126 SE 86th Ave
+Portland, OR 97266 
+Not painting any closets. Desta please verify if any closets need to be painted?
+
+Wainscot demo, fix sheetrock, paint, texture
+17 x 8 136
+L $450
+M$100
+
+C X 8H
+30 30 45 13 24 24 18 11 15 11 15
+1888 SF
+
+13 x 6 78
+11 x 4)2 88
+6 x 5 30
+7 x 7 49
+
+2 Upstairs side bedroom 
+48 x 4)2 384
+C 16 x 14)2 448
+
+Paint faces of Kitchen Cabinets 
+13 x 4 52 
+15 x 5 75
+
+Downstairs room 
+& bath 26 x 7 182
+Downstairs stairs 
+24 x 10 240 
+12 x 3 36
+
+Demo plywood on stairs install sheetrock 1/2" tape, mud & sand x 2 coats 
+
+Bare Concrete 26 x 7 182 SF
+loxon primer $50
+Concrete Walls 25 x 7 175 SF
+Rock 28 x 7 196 SF
+
+Mud skim coat 2 damaged walls 28 x 7 196 SF
+
+Door mud sand paint lets replace it instead w a 6 panel hollow core door?
+
+Prime & Top coat small garage grafitti room 257 SF
+26 x 8 208
+7 x 7 49
+
+Total Paintable Surface Area

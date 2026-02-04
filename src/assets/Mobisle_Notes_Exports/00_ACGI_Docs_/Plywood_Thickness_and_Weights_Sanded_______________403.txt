@@ -1,0 +1,6 @@
+Plywood Thickness and Weights:Sanded               
+
+Nominal Thickness1/4 3/8 1/2 5/8 3/4 7/8
+        Actual Thickness.   1/4       11/32      15/32     19/32      23/32     1-1/8
+               
+Approximate weight per 4x8 sheet22.0      28.5       40.6          48          60.8         84.5

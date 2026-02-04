@@ -1,0 +1,1 @@
+export function CP503LogEvent(eventName, payload) { ... }console.log("[LOG]", eventName, payload);

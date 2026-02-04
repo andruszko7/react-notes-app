@@ -1,0 +1,5 @@
+Itex
+Your login information: 
+Web Site: http://www.itex.com
+Username: andruszko1
+Password: itex123

@@ -1,0 +1,8 @@
+Scrap 2
+Low Earth Orbit Large Debris Removal
+
+VASIMR® technology can be efficiently applied to remove orbital debris from low Earth orbit (LEO) by means of a high power, solar electric propulsion (SEP) space tug. AARC examines the capture and controlled deorbit of 19 known large pieces of orbital debris, drifting in various high inclination orbits. The chosen objects are mainly spent Zenit rocket upper stages larger than a full size school bus, weighing approximately 8 tons.
+
+￼
+
+This mission concept utilizes the company’s multipurpose, 200 kW SEP VASIMR® space tug to lower the orbital altitude of the Zenit targets for a controlled chemical de-orbit over the Pacific Ocean. To accomplish this de-orbit, the reusable tug is fitted with a specialized service module (SM) consisting of a solid rocket motor (SRM) tray, loaded with 20 SRM units (19 plus a spare) and a detachable, short-range, “chemical robotic pod” (CRP) for proximity operations near the target body. For each of the 19 targets, the tug first climbs to the orbit of the drifting Zenit (~800 km) where the CRP is released to capture, stabilize, and bring the target back to a hard docking with the tug. At capture, the CRP also robotically installs a fresh SRM unit onto the Zenit rocket nozzle. With the Zenit attached, the tug brings it down to approximately 400 km for release at a point where the newly fitted SRM ignites, bringing the Zenit to a controlled atmospheric re-entry. The VASIMR® tug then climbs back, making a plane change, as required, to capture the next target and repeat the process.

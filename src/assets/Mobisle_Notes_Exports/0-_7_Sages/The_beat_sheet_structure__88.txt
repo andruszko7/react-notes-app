@@ -1,0 +1,64 @@
+The beat sheet structure 
+Chapter 3: Writing the Script
+
+Weaving Stories Together - The Beat Sheet
+
+A beat is a the smallest unit of story telling. It is a piece of the story in which something happens. It could be something dramatic:
+
+INT. BLUES’S HOUSE – DAY
+
+Blues comes home to find Charlie there waiting for her. He apologizes for standing her up the other day — but he can’t explain. There were “things he needed to do.” Blues blows up at him. She’s sick of him being so mysterious. She tells him to get the hell out of her house.
+
+Or it could be action:
+
+EXT. BLUES’ HOUSE – DAY
+
+Charlie leaves Blues’ house — and is ambushed by Shikari. Only a lucky accident saves his life.
+
+Both of these examples are also single scenes. A scene is continuous action in a single place. A scene continues until you cut away to a new scene in a new setting. However, a beat can take place over several scenes:
+
+EXT. HIGHWAY / STREET / WATERFRONT – NIGHT
+
+Starsky and Hutch chase the bad guys, finally cornering them on a dock.
+
+Note that though this is formatted as if it were a single scene, “HIGHWAY / STREET / WATERFRONT” is not a location. It’s several locations. This beat will turn into many scenes in the step outline:
+
+EXT. HIGHWAY – NIGHT
+
+Starsky and Hutch chase the bad guys through crazy traffic until the bad guys bail off the freeway...
+
+EXT. STREET – NIGHT
+
+Starsky and Hutch play dodgeball with cars, driving through an alleyway market, totalling it, as they chase the bad guys, till they end up on the...
+
+EXT. WATERFRONT – NIGHT
+
+Our heroes finally corner the bad guys on a dock.
+
+The script might break this down further into more scenes, especially if the story editor writing the episode goes to the actual, physical locations and tailors the action for that place.
+
+Likewise, several beats can take place in the same setting:
+
+EXT. BEACH PARTY – NIGHT
+
+Alex brings some THUGS to confront Ryan, but winds up reconciling with Marissa... and breaking up with her. Meanwhile...
+
+EXT. BEACH PARTY – NIGHT
+
+Seth tells Summer he thinks he did the right thing after all. She reluctantly admits he may be right.
+
+A beat sheet is the entire episode told beat by beat. A breakdown keeps the A, B and C stories separate, to make it clearer whether they’re working or not. A beat sheet weaves the stories together in the order you intend them to appear in the episode.
+
+A half hour beat sheet could be three to six pages long, single spaced; a one hour beat sheet could be six to twelve pages long. But there is no required number of pages. A beat sheet is as long as it needs to be to tell the story efficiently.
+
+The A, B and C stories should be balanced, so that no single act is too heavy with one particular story line. Generally the A story has more beats than the B story, which has more than the C story. So, in an hour drama, the A storymight have three to four beats per act, the B story might have two, and the C story only one. How many beats there are depends on the pace of the story telling. A talky drama like Gilmore Girls might have fewer beats per act than a high-pitch high-speed thriller like 24. In general the pace of story telling and dialogue has been speeding up. The scenes in Miami Vice now seem draggy — long and long-winded. The scenes in 1951’s original Dragnet seem draggy beyond belief.
+
+The point of writing a beat sheet first is to allow you to get a clear sense of the way the story will flow. It’s hard to read a thirty-page, half-hour script, hold it all in your head at once, and get a sense if it’s going to work as an episode. With a three or four or even six page beat sheet, it’s much easier.
+
+The beats should be written as clearly and simply as possible. This is a document for you. You’re not trying to sell the story to an outsider; you’re just trying to grasp the story all at once. (But see “treatment,” below.)
+
+Typically a beat sheet doesn’t contain much dialogue. It might have a few lines here or there if they are exceptionally clever, or if they crystallize a dialogue scene, but in general, save the dialogue and detailed action description for the pages. If your beat sheet is too detailed, it defeats the purpose of recounting the story in broad strokes.
+
+In your beat sheet, try to make sure each scene raises a question — whether an emotional or a plot question, whether implicit or explicit — that a later scene answers. That’s what pulls the audience through the story.
+
+You should know, at a minimum, who’s in the scene and where it takes place. You should know what each character wants going into the scene, and what the conflict is. You should know what twists happen, and where the characters are going to end up

@@ -1,0 +1,1741 @@
+Estimating
+20-30% profit
+____ man hours to do job X man hr rate  of $50-100/ hr
+Complete a cost analysis for each room
+example $60/hr materials, paint, sundries 
+
+http://www.contractortalk.com/f16/pricing-estimatin g-success-122452/#/topics/122452
+
+Aug 22, 2012 · #1
+
+Pricing, Estimating, And Success
+
+Originally composed by member, Brian Phillips
+
+One of the most challenging aspects of running a contracting business is estimating jobs. For someone with little experience, estimating can be a rather scary endeavor (it can also be scary for someone with tons of experience). After all, the accuracy of the estimate will have a huge impact on the contractor’s success.
+
+This, I believe, is the primary reason we see so many questions asking what to charge for a job. But such questions are misdirected, because what I (or anyone else) would charge is completely irrelevant and doesn’t address the real issues.
+
+The price of a job is comprised of 4 basic components: labor costs, material costs, overhead, and profit. Estimating is the process of identifying the labor and material costs. We add our overhead and profit to those costs to obtain our price.
+
+Overhead—advertising, rent, insurance, utilities, phone, owner’s salary, etc.— is completely unique to each company. Without knowing these numbers, it is impossible to properly price a job.
+
+Profit goals are also unique to each company. Again, without knowing the specific profit goals for a company, it is impossible to properly price a job.
+
+Consequently, any attempt to answer a pricing question in the absence of these two key numbers is essentially meaningless. More to the point, pricing questions ignore the fact that a large percentage (often more than 50%) of the job’s price should be comprised of overhead and profit. (My suspicion is that those who pose such questions don’t know their overhead, and mistake gross profit for net profit. But that’s a different issue.)
+
+As I said, estimating is the process of identifying the labor and material costs for the job. Labor costs are determined by the type of work being performed, the production rates of the company’s workers (the time required to perform each task), and pay rates. As with overhead and profit, these numbers will be unique to each company. Material costs are determined by the type of materials required, the quantity required, and their purchase price.
+
+For example, let us say that a painting contractor knows that his painters can prepare and paint a certain style of door in 30 minutes. He looks at a job that has 10 of these doors. He knows that his painters can prep and paint these doors in 5 hours. He can also calculate the materials required by the spread rate of the product he will use. The contractor can now determine what his costs will be for the job. By adding his overhead and profit to these costs he will have his price for this job.
+
+While the above example is simple and uses a painting project, the same principle applies to every contracting job—large or small, simple or complex—regardless of trade.
+
+What should I charge for X? really means: what is the total of my labor costs, material costs, overhead, and profit? And the answer to that question requires a substantial amount of additional information. Providing an answer without that information is simply a guess.
+
+Accurately pricing a job is not rocket science, but it shouldn’t be based on conjecture, blind guesses, or another company’s numbers either. Certainly accurate estimating takes effort, but owning a successful business isn’t easy. Asking what to charge for a job is asking for a short cut, but there are no short cuts to success.
+
+Such questions about prices for a job are inappropriate, because they ignore the many factors that determine the price. Providing a price in response to such questions is also inappropriate, for the same reasons.
+
+It is a documented fact that 90% of small businesses fail within 5 years. Of those that make it 5 years, another 90% will fail within the next five years. Which means, 99% of small businesses fail within 10 years. One of the primary reasons for failure is not charging enough. Contractors are as guilty of this as anyone.
+
+There seems to be no shortage of hacks willing to work for dirt cheap prices. Nor does there seem to be a shortage of replacements when they inevitably fail. One of the most effective means for avoiding failure is to know your numbers. Asking what to charge for a job is simply an admission that you don’t know your numbers.
+
+I hasten to add that there is nothing wrong or inappropriate with asking how to price a job. But how to price is different from what price to give. Learning the process is a good thing. Looking for an easy way out isn’t.
+
+Putting paint on the wall is a trade skill. Pricing a job is a business skill. A skilled craftsman does not necessarily make a good businessman, because different skills are required. The owner of a contracting company does not necessarily need to have trade skills, but it is imperative that he have business skills if he is to succeed. The longer you wait to obtain those skills, the closer you move to joining those 99%.
+
+Brian Phillips
+
+
+There is an active thread for discussions. YOU CANNOT ASK PRICING QUESTIONS IN THAT THREAD:
+http://www.contractortalk.com/f16/pricing-estimating-success-27899/
+
+
+
+The only way you can get accuracy in your bid is to be scientific about your work. You need to keep track of the time it takes to do different aspects of your job. If you think it takes 2 hours to hang and trim a door, but your on site experience is 4 hours - then 4 hours is what's got to go into you bidding form. (What do most amatauers forget to include in their bid? setup, material handling, layout, cleanup, and the all important "misc, labor", the catchall for all those little unique oddities that show up in every job.)
+
+In my spreadsheet, every aspect or phase of the job includes these 5 items. And whenever I run into something I didn't think of before, or a new wrinkle, I add it to my spreadsheet template. After 30 years it's massive. But I won't forget anything!
+
+BobE, if you want the secret, here it is in a nutshell. The secret to a successful small business is as simple as the Golden Rule.
+
+Do unto others as you would have them do unto you.
+
+Be fair, reasonable, flexible, reliable, trustworthy, respectful and kind in all you do and you will be successful.
+
+Say what you will do, and do what you said you would, on schedule, on budget and with a smile. Treat your client's home as your own. Pay your help as well as you would like to be paid. Pay your creditors with the respect they are due... They are the folks that believe in you and floated you the loan in the first place.
+
+Forget the 'going rate'. Its the first and last defense of the fool in this business. It is a fantasy, it doesn't exists except for moment in time to serve a particular need. Then it disappears like the tooth fairy, to await the next time someone needs to be calmed because things do what they do best. They change.
+
+SEARCH IN THE CURRENT
+
+AND SHOW ME
+
+Index
+
+Business Discussion
+
+Business
+
+Brian
+
+Houston, TX
+
+Oct 13, 2007 · #1
+
+Pricing, Estimating, and Success
+
+One of the most challenging aspects of running a contracting business is estimating jobs. For someone with little experience, estimating can be a rather scary endeavor (it can also be scary for someone with tons of experience). After all, the accuracy of the estimate will have a huge impact on the contractor’s success.
+
+This, I believe, is the primary reason we see so many questions asking what to charge for a job. But such questions are misdirected, because what I (or anyone else) would charge is completely irrelevant and doesn’t address the real issues.
+
+The price of a job is comprised of 4 basic components: labor costs, material costs, overhead, and profit. Estimating is the process of identifying the labor and material costs. We add our overhead and profit to those costs to obtain our price.
+
+Overhead—advertising, rent, insurance, utilities, phone, owner’s salary, etc.— is completely unique to each company. Without knowing these numbers, it is impossible to properly price a job.
+
+Profit goals are also unique to each company. Again, without knowing the specific profit goals for a company, it is impossible to properly price a job.
+
+Consequently, any attempt to answer a pricing question in the absence of these two key numbers is essentially meaningless. More to the point, pricing questions ignore the fact that a large percentage (often more than 50%) of the job’s price should be comprised of overhead and profit. (My suspicion is that those who pose such questions don’t know their overhead, and mistake gross profit for net profit. But that’s a different issue.)
+
+As I said, estimating is the process of identifying the labor and material costs for the job. Labor costs are determined by the type of work being performed, the production rates of the company’s workers (the time required to perform each task), and pay rates. As with overhead and profit, these numbers will be unique to each company. Material costs are determined by the type of materials required, the quantity required, and their purchase price.
+
+For example, let us say that a painting contractor knows that his painters can prepare and paint a certain style of door in 30 minutes. He looks at a job that has 10 of these doors. He knows that his painters can prep and paint these doors in 5 hours. He can also calculate the materials required by the spread rate of the product he will use. The contractor can now determine what his costs will be for the job. By adding his overhead and profit to these costs he will have his price for this job.
+
+While the above example is simple and uses a painting project, the same principle applies to every contracting job—large or small, simple or complex—regardless of trade. 
+
+What should I charge for X? really means: what is the total of my labor costs, material costs, overhead, and profit? And the answer to that question requires a substantial amount of additional information. Providing an answer without that information is simply a guess.
+
+Accurately pricing a job is not rocket science, but it shouldn’t be based on conjecture, blind guesses, or another company’s numbers either. Certainly accurate estimating takes effort, but owning a successful business isn’t easy. Asking what to charge for a job is asking for a short cut, but there are no short cuts to success.
+
+Such questions about prices for a job are inappropriate, because they ignore the many factors that determine the price. Providing a price in response to such questions is also inappropriate, for the same reasons.
+
+It is a documented fact that 90% of small businesses fail within 5 years. Of those that make it 5 years, another 90% will fail within the next five years. Which means, 99% of small businesses fail within 10 years. One of the primary reasons for failure is not charging enough. Contractors are as guilty of this as anyone.
+
+There seems to be no shortage of hacks willing to work for dirt cheap prices. Nor does there seem to be a shortage of replacements when they inevitably fail. One of the most effective means for avoiding failure is to know your numbers. Asking what to charge for a job is simply an admission that you don’t know your numbers.
+
+I hasten to add that there is nothing wrong or inappropriate with asking how to price a job. But how to price is different from what price to give. Learning the process is a good thing. Looking for an easy way out isn’t.
+
+Putting paint on the wall is a trade skill. Pricing a job is a business skill. A skilled craftsman does not necessarily make a good businessman, because different skills are required. The owner of a contracting company does not necessarily need to have trade skills, but it is imperative that he have business skills if he is to succeed. The longer you wait to obtain those skills, the closer you move to joining those 99%.
+
+Brian Phillips
+
+
+EDIT:
+See this thread as to why we don't allow pricing questions here:
+http://www.contractortalk.com/f11/why-discussing-pricing-frowned-upon-here-contractor-talk-100555/
+
+Post Edited
+
+Last edited by angus242 - Sep 06, 2011
+
+curapa
+
+Savannah, Ga
+
+Oct 13, 2007 · #2
+
+very nice￼
+
+JumboJack
+
+Lakewood CA.
+
+Oct 13, 2007 · #3
+
+RACK EM'..Make it a sticky!
+
+Home Serve
+
+Central MO
+
+Oct 13, 2007 · #4
+
+Hey Brian,
+Very well put, this or similar should be read by every contractor out there. Short and to the point, an easy read.
+Good Job ￼
+Dave
+
+knothole
+
+Middle TN.
+
+Oct 13, 2007 · #5
+
+Very informative and to the point. Highly agreed with.
+
+Tom M
+
+Bergen County, NJ
+
+Oct 13, 2007 · #6
+
+I tend to think people use square foot numbers as an umbrella for trades. I personally hate that but I think the mindset is different skill levels or niches in different installs pay better than others. It is assumed some areas are better rewarded for thier hours punched. A square foot number for a framer is a better covered umbrella than say drywall. One has many unpredictable hidden responsibilities while the other is has to be done very fast because the performance is more predictable. I agree about every business needs what they need but these sqft #'s set the table for what ballpark you or your competition should be in.
+
+copusbuilder
+
+Crockett Texas
+
+Oct 13, 2007 · #7
+
+Where did you find that Brian. Interesting read￼
+
+Vinny
+
+Westport, Connecticut
+
+Oct 13, 2007 · #8
+
+You said that so well, you could or should write a book, or teach a class. 
+
+That knowlegde you speak of is exactly what very few in the trades know anything of. The fact is, unfotunatly, most get into these buinesses from the installer side because they got tired of making thier boss rich, or so they think that, and decide they can and should do it for themselves. 
+
+The result is alot of ditch diggers with ditch digger heads. 
+
+Few people in the trades actualy have a buisness and so they dont realize it, but they actually own a job.
+
+Financial education should be a prerequisite of anyone thinking of going into any buisness and there should be a real test on it prior to issuance of a license. Then, only with that license on file at a supply house or plant could they be allowed to obtain what they need. 
+
+If this were done we could all make a much better profit for our efforts.￼
+
+Brian
+
+Houston, TX
+
+Oct 13, 2007 · #9
+
+copusbuilder said:
+
+Original Post
+
+Where did you find that Brian. Interesting read￼
+
+
+
+I didn't find it, I wrote it.
+
+Brian Phillips
+
+barreled
+
+Outer Banks, NC
+
+Oct 13, 2007 · #10
+
+really good Brian I have seen a lot of contractors do really well with thier business and not have a clue how to build a house. I can build the house, sure wish I could make the money work in business
+
+RobertCDF
+
+Colorado Springs, Colorado
+
+Oct 13, 2007 · #11
+
+You think they will read this and not still ask? I hope so. From now on I will just post a link to this sticky whenever someone asks a pricing question.
+
+ProWallGuy
+
+St. Louis, MO
+
+Oct 13, 2007 · #12
+
+RobertCDF said:
+
+Original Post
+
+From now on I will just post a link to this sticky whenever someone asks a pricing question.
+
+
+Yep, that was the point of making it a sticky. ￼
+
+woodmagman
+
+Alberta
+
+Oct 14, 2007 · #13
+
+"The price of a job is comprised of 4 basic components: labor costs, material costs, overhead, and profit. Estimating is the process of identifying the labor and material costs. We add our overhead and profit to those costs to obtain our price." I think something else that should be added to the reason for being or not being successful is to add an additional column in for "time spent on estimating" then contractors would understand how important salesmanship is.... If you are right bang on with your costing, and you are a master at what you do, and you go up agaist another contractor that is a master and can sell [U][I]popsicles to a snowman[/I][/U] you will lose.....even if you compeditor is higher.. [U][SIZE=3][/SIZE][/U] [U][SIZE=3]Feel free to add too these steps.[/SIZE][/U] [U][SIZE=3][/SIZE][/U] [U][SIZE=3]Changing an exterior door[/SIZE][/U] [SIZE=3]One man operation working out of his home and garage[/SIZE] [SIZE=3]The process of creating an estimating formula[/SIZE] [SIZE=3] [/SIZE] [LIST] [*][SIZE=3]Sourcing and picking up material.[/SIZE] [LIST] [*][SIZE=3]Drive to lumber store[/SIZE] [*][SIZE=3]Waiting for service[/SIZE] [*][SIZE=3]Loading material [/SIZE] [*][SIZE=3]Driving to the project[/SIZE] [/LIST] [*][SIZE=3]Setting up to work on project[/SIZE] [LIST] [*][SIZE=3]Loading the equipment required to complete project.[/SIZE] [*][SIZE=3]Delivering the equipment[/SIZE] [*][SIZE=3]Unloading and setting the equipment up[/SIZE] [/LIST] [*][SIZE=3]Steps required to complete project[/SIZE] [LIST] [*][SIZE=3]Required demolition[/SIZE] [*][SIZE=3]Disposal[/SIZE] [/LIST] [/LIST] [SIZE=3]i.[/SIZE] [SIZE=3]Time to clean up and secure all waste material for disposal pickup[/SIZE] [SIZE=3]ii.[/SIZE] [SIZE=3]Cost of disposal pickup[/SIZE] [LIST] [LIST] [*][SIZE=3]Measuring and preparation to start job[/SIZE] [*][SIZE=3]Create a game plan[/SIZE] [*][SIZE=3]Cut jamb and threshold to required dimensions[/SIZE] [*][SIZE=3]Hinge gain and secure joinery[/SIZE] [*][SIZE=3]Shim jamb in opening[/SIZE] [*][SIZE=3]Hang door[/SIZE] [*][SIZE=3]Adjust and secure jamb[/SIZE] [*][SIZE=3]Drill and install locksets[/SIZE] [*][SIZE=3]Insulated and weather proof frame[/SIZE] [*][SIZE=3]Install exterior trim[/SIZE] [*][SIZE=3]Install interior trim[/SIZE] [*][SIZE=3]Preparation and chalking for paint[/SIZE] [*][SIZE=3]Prime trim and door[/SIZE] [*][SIZE=3]Paint two coats trim and door [/SIZE] [/LIST] [*][SIZE=3]Cleaning up after the project[/SIZE] [LIST] [*][SIZE=3]Loading carpentry tools up and securing them on the truck[/SIZE] [*][SIZE=3]Loading and putting painting material away[/SIZE] [/LIST] [*][SIZE=3]Daily/hourly or by the minute costs, even if nothing is being done the machine cost money to sit&#8230;[/SIZE] [LIST] [*][SIZE=3]Phone[/SIZE] [/LIST] [/LIST] [SIZE=3]i.[/SIZE] [SIZE=3]Purchase cost[/SIZE] [SIZE=3]ii.[/SIZE] [SIZE=3]Monthly rental[/SIZE] [SIZE=3]iii.[/SIZE] [SIZE=3]Per-call cost[/SIZE] [SIZE=3]iv.[/SIZE] [SIZE=3]Phone book listings[/SIZE] [LIST] [LIST] [*][SIZE=3]Office[/SIZE] [/LIST] [/LIST] [SIZE=3]i.[/SIZE] [SIZE=3]Percentage of home square footage and cost incurred[/SIZE] [SIZE=3]ii.[/SIZE] [SIZE=3]Business licensees[/SIZE] [SIZE=3]iii.[/SIZE] [SIZE=3]Approved signage [/SIZE] [SIZE=3]iv.[/SIZE] [SIZE=3]Office supplies[/SIZE] [SIZE=3]v.[/SIZE] [SIZE=3]Office machine purchases and rentals[/SIZE] [SIZE=3]vi.[/SIZE] [SIZE=3] [/SIZE] [LIST] [LIST] [*][SIZE=3]Tools[/SIZE] [/LIST] [/LIST] [SIZE=3]i.[/SIZE] [SIZE=3]Wear and tear[/SIZE] [LIST] [LIST] [*][SIZE=3]Vehicles[/SIZE] [/LIST] [/LIST] [SIZE=3]i.[/SIZE] [SIZE=3]Lease cost[/SIZE] [SIZE=3]ii.[/SIZE] [SIZE=3]Insurance[/SIZE] [SIZE=3]iii.[/SIZE] [SIZE=3]Maintenance[/SIZE] [SIZE=3]iv.[/SIZE] [SIZE=3]Fuel and oil[/SIZE]
+
+Post Edited
+
+Last edited by woodmagman - Nov 04, 2008 - Reason: Added too
+
+Bob Kovacs
+
+Holly Springs, GA
+
+Oct 14, 2007 · #14
+
+eagleandbaby said:
+
+Original Post
+
+What to you know/think about web based estimating sites? I have seen two. Having spent a minimul amount of time on them, one seemed good and one bad.
+
+The bad one was homerenovationestimate.com
+
+The good one was estimatorcheck.com
+
+
+
+They may be good for a "gut check" of your numbers, but I would NEVER (did I emphasize that enough???) use them to submit a proposal. You don't know what material costs their numbers are based on, what labor rates they use, what productivity factors they use, etc., so how can they provide accurate enough info you you to submit bids from???
+
+copusbuilder
+
+Crockett Texas
+
+Oct 14, 2007 · #15
+
+Brian said:
+
+Original Post
+
+I didn't find it, I wrote it.
+
+Brian Phillips
+
+
+
+Im impressed￼
+
+eagleandbaby
+
+Orange County, CA
+
+Oct 14, 2007 · #16
+
+Bob Kovacs said:
+
+Original Post
+
+They may be good for a "gut check" of your numbers, but I would NEVER (did I emphasize that enough???) use them to submit a proposal. You don't know what material costs their numbers are based on, what labor rates they use, what productivity factors they use, etc., so how can they provide accurate enough info you you to submit bids from???
+
+
+
+
+thanks
+
+Grumpy
+
+Chicago
+
+Oct 15, 2007 · #17
+
+I agree with everything you said but from time to time I like to get a reality check on something I may be bidding for the first time just to see where my pricing falls. If I ask a group of guys what something costs and they tell me $10,000 but I am guessing $4,000... we have a big problem!
+
+As I said I agree with everything you said, and we should post this link as a reply when ever anyone asks about price, however it's still nice to sometimes know the "going rate".
+
+Vinny
+
+Westport, Connecticut
+
+Oct 15, 2007 · #18
+
+Grumpy said:
+
+Original Post
+
+I agree with everything you said but from time to time I like to get a reality check on something I may be bidding for the first time just to see where my pricing falls. If I ask a group of guys what something costs and they tell me $10,000 but I am guessing $4,000... we have a big problem!
+
+As I said I agree with everything you said, and we should post this link as a reply when ever anyone asks about price, however it's still nice to sometimes know the "going rate".
+
+
+
+I would think perhaps you have a point.
+
+Surely, if you are consistantly loosing jobs because your too high or, conversly, have every job you looked at because your too low, there may be some value to knowing "the going rate". Has this been posted"the going out of buisness rate"￼
+
+Anyway, I digress. But the point being, and I,m sure you already know this, is that you cant run your buisness for the going rate if thats not enough for you to make profit. 
+
+Of course, everything must be in line: expenses not too high, salary not too high(or low), not paying too much on material. Then if its still not right, you gotta take another look at things like market, clients, geographic location. 
+
+And if that all looks ok, then you must start making a plan(a buisness plan) that has all components needed to make it work for you. 
+
+Back to your point, knowing "the going rate" has its uses, but you must be very carefull to know how to incorparate the info, if you chose to pay attention to it at all.
+
+Brian
+
+Houston, TX
+
+Oct 15, 2007 · #19
+
+Since 99% of the contractors starting business today won't last 10 years, and since most of them aren't charging enough, I'm not sure why knowing the "going rate" will be helpful. The "going rate" is really the "going broke rate".
+
+I suppose it would be helpful in the sense that if I'm charging the "going rate" I better raise my prices. 
+
+I'm not very concerned with what others charge. Most of them don't know what they are doing, won't be around in a few years, and certainly don't offer what I do.
+
+I think too many contractors are more concerned about price than the customer is. Too many contractors think the only way to get a job is to have the lowest price. Getting a job is the operative phrase-- they are trying to get a particular job and not build a business.
+
+Anyhow, I appreciate all of the comments, both pro and con. 
+
+Brian Phillips
+
+j_sims
+
+Central Texas
+
+Oct 16, 2007 · #20
+
+￼Very Good post Brian...You are dead on with what you are saying.
+Early in my career I had a guy tell me, 
+" Don't worry if your price is too high, just worry if it is high enough."
+
+Again this was a long time ago...Initially I thought he had meant "get as much as you can" it took me a while to understand he was talking about what you posted.
+
+If more these "how much" guys would sit down and figure out their fixed cost and overhead cost, company and personal goals. That is 70% of the Great Estimating Mystery.
+And that also means being a little bit of a soothsayer.."How much do I need to put back for the kid's college or How many times will I have to bail junior out of the hoosegow￼...weddings, my retirement, etc.... (pretty big list by the end of it) Also, they need to update and adjust their projections frequently!
+
+I like the term " the going (broke) rate"
+Anyway, I am being redundant to what you said....good post￼
+Ya done TEXAS proud.
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Oct 16, 2007 · #21
+
+Brian said:
+
+Original Post
+
+
+
+Since 99% of the contractors starting business today won't last 10 years, and since most of them aren't charging enough, I'm not sure why knowing the "going rate" will be helpful. The "going rate" is really the "going broke rate".
+
+
+
+Brian,
+
+I have used almost that exact phrase when I occassionally have to deal with an insurance adjuster saying that the prices they offer are the average going rate in the industry.
+
+I do not desire to be compared to the 90 % + of all contractors or small businesses who can not sustain their business operations.
+
+Once again, great initial post. ￼
+
+Ed
+
+Tom M
+
+Bergen County, NJ
+
+Oct 16, 2007 · #22
+
+Since estimates have been fewer and the competition is getting cheaper I think I will go out and buy some expensive toys. New trucks, and equipment and then invest in a large advertisement campaign. Then I could hire a group of guys on salary to try and convince 1 out of ten customers that paying my outrages overhead ensures them a better job than the small guy who puts on his tools and personally does the job. I have heard a client say more than once that they were getting 3 estimates, so to say there is no going rate is ridiculous. Everyone needs to know thier own bottom line over head going in a bid period but know matter what kind of dog and pony show you put on at the sale --its no sale if your cost is way over theirs. The more people slow down the more people are roaming into other types of work to stay busy. It should be no such a mystery that people as inquiry about cost others are getting. You also have no idea how many HO are going on line price checking thier own jobs.
+
+Dave Mac
+
+Oct 16, 2007 · #23
+
+I for one love to know the going rate, of company's that have been in my market for well over 10 years, their are plenty of them. I collect their estimate packages, and learn from them. most of them around for twenty.
+
+Frankawitz
+
+South Eastern Michigan outside of Detroit.
+
+Oct 16, 2007 · #24
+
+Brian,
+
+Great Post!￼ I've been in the dog and pony show for awhile now and if most guys would just take their time, they will pick up on things that will tell them how to price the job they are looking at. If they would know the numbers like you said and then it will fall into place. Great post.
+
+Dave Mac
+
+Oct 17, 2007 · #25
+
+Is it that 99% fail because they dont charge the correct price???
+
+I wonder, their has to be other reasons they fail.
+
+whear did you get 99% buisness fail??
+
+thanks
+dave mac
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Oct 17, 2007 · #26
+
+I have read from DOL statistics of all small businesses.
+
+80 % fail withinf 1st 5 years.
+
+Of the remaining 20 %, 80 % of them go 0ut of business in the next 5 years.
+
+That would leave 4 % of the originals at the beginning of the 10 year period.
+
+There are many other reasons to go out of business, but money in should be greater than money out, would have to be a high ranking one.
+
+Ed
+
+Grumpy
+
+Chicago
+
+Oct 17, 2007 · #27
+
+I concur with Ed's numbers above which seem to be in line with everything I have read. 
+
+Why do "I" think so many businesses go out of business? I can think of lots of reasons. Money problem is probably the #1 reason. However I would say tailing in a close second are those businesses who's strategy it is to fold and re-open under another name to skirt lawsuites and warranty issues would be very common for the construction/remodeling industry. 
+
+A 3rd very common reason is that it's the easy thing to do when things get tough, especially if you are a one man shop. Having a bad day? It's easy to get the attitude that you're going to close up and do something else.
+
+I know I closed up my web design/hosting company years ago because I got bored of it and got a new girl friend whom I have since married. It was really easy to do since I was the only employee. I just deiced one day to stop, and I did. I sold it and bought some furniture for my new condo. That was the end of that chapter of my life, just made the decision to do so one afternoon probably after a few drinks. 
+
+I'd say those are the #3 most common reasons that businesses fail. In my opinion of coarse.
+
+Chip_Block
+
+S.F. Bay Area
+
+Oct 18, 2007 · #28
+
+Getting good at estimates and bids
+
+The only way you can get accuracy in your bid is to be scientific about your work. You need to keep track of the time it takes to do different aspects of your job. If you think it takes 2 hours to hang and trim a door, but your on site experience is 4 hours - then 4 hours is what's got to go into you bidding form. (What do most amatauers forget to include in their bid? setup, material handling, layout, cleanup, and the all important "misc, labor", the catchall for all those little unique oddities that show up in every job.)
+
+In my spreadsheet, every aspect or phase of the job includes these 5 items. And whenever I run into something I didn't think of before, or a new wrinkle, I add it to my spreadsheet template. After 30 years it's massive. But I won't forget anything!
+
+You've simply got to keep a timecard for yourself. It's a habit. Then, overtime, you'll see your bids being more and more accurate. You'll also notice that your bids are probably more expensive than some others - but that means you're really accounting for all that's involved - and you won't be working, working, working - and wondeing why your not making enough money. You'll also have longevity as a builder. That adds to your credibility as well as your bottom line.
+
+For those great "sales" people who just sell themselves but don't have the goods to back it up, they're a flash in the pan. Not even worth thinking about.
+
+Post Edited
+
+Last edited by Chip_Block - Oct 18, 2007
+
+arturjhawk
+
+Oct 19, 2007 · #29
+
+Quote:
+
+
+For those great "sales" people who just sell themselves but don't have the goods to back it up, they're a flash in the pan. Not even worth thinking about.
+
+
+Well...I am a salesperson with 5 years of laborer experience 
+and know how much time you need to set and trim the door
+but still can sell 5k for 10k ￼
+
+Dave Mac
+
+Oct 19, 2007 · #30
+
+Chip_Block said:
+
+Original Post
+
+The only way you can get accuracy in your bid is to be scientific about your work. You need to keep track of the time it takes to do different aspects of your job. If you think it takes 2 hours to hang and trim a door, but your on site experience is 4 hours - then 4 hours is what's got to go into you bidding form. (What do most amatauers forget to include in their bid? setup, material handling, layout, cleanup, and the all important "misc, labor", the catchall for all those little unique oddities that show up in every job.)
+
+In my spreadsheet, every aspect or phase of the job includes these 5 items. And whenever I run into something I didn't think of before, or a new wrinkle, I add it to my spreadsheet template. After 30 years it's massive. But I won't forget anything!
+
+You've simply got to keep a timecard for yourself. It's a habit. Then, overtime, you'll see your bids being more and more accurate. You'll also notice that your bids are probably more expensive than some others - but that means you're really accounting for all that's involved - and you won't be working, working, working - and wondeing why your not making enough money. You'll also have longevity as a builder. That adds to your credibility as well as your bottom line.
+
+For those great "sales" people who just sell themselves but don't have the goods to back it up, they're a flash in the pan. Not even worth thinking about.
+
+
+
+
+On your spread sheet do you have a coulmn you list the item or work done, then in the row you list the time and condition it takes, is their any more to it?? thanks 
+
+dave mac
+
+True North
+
+North Pole
+
+Oct 19, 2007 · #31
+
+arturjhawk said:
+
+Original Post
+
+Well...I am a salesperson with 5 years of laborer experience 
+and know how much time you need to set and trim the door
+but still can sell 5k for 10k ￼
+
+
+
+The question is, are you enough of a rip-off to do it?￼
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Oct 19, 2007 · #32
+
+Why in the world would you consider the price that is agreed to by both parties for the inherent value supplied to be a rip-off?
+
+Maybe, it is all of the other contractors who "ONLY" charge $ 5,000 for the job that is the problem.
+
+That could be a major reason why 80 % of all small businesses, including contractors, go out of business after 5 years and 96 % of the original group go out of business after 10 years.
+
+Ed
+
+Post Edited
+
+Last edited by Ed the Roofer - Oct 19, 2007
+
+George Z
+
+Toronto
+
+Oct 19, 2007 · #33
+
+True North said:
+
+Original Post
+
+The question is, are you enough of a rip-off to do it?￼
+
+
+
+Why is that a rip off?
+Doesn't the customer see the price up-front and wants to pay that price?
+
+You,
+the custodians of the customers money are welcome to change careers 
+and become financial advisors,
+or talk to them out of their Lexus and make them buy a Camry
+
+True North
+
+North Pole
+
+Oct 19, 2007 · #34
+
+Ed the Roofer said:
+
+Original Post
+
+Why in the world would you consider the price that is agreed to by both parties for the inherent value supplied to be a rip-off?
+
+Maybe, it is all of the other contractors who "ONLY" charge $ 5,000 for the job that is the problem.
+
+That could be a major reason why 80 % of all small businesses, including contractors, go out of business after 5 years and 96 % of the original group go out of business after 10 years.
+
+Ed
+
+
+
+So Ed, if some slick talking @sshole sold your 85 year mother something for double what it's worth, that would be okay by you?
+
+You guys... *shakes head*
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Oct 19, 2007 · #35
+
+I guess you don't see the big picture and just want to focus on someone truly being taken advantage of.
+
+If 96 % of all contractors are out of business by year 10, did they all just have a change of heart, or did they suffer from not earning enough from all of their hard work put forth.
+
+If my Grandmothers were still alive and would want to buy a Cadillac instead of a Chevy, and received a sense of satisfaction from rewarding themselves, I would not attempt to prevent them from making their own decision?
+
+Would You?
+
+Is a better roofing system and the Peace Of Mind worthwhile for an elderly person? I think so. Many of my best customers have worked hard their entire lives and finally feel they deserve to reward themselves with upgrades they would have been too thrifty to choose years earlier.
+
+I have to wonder, from what reference point do you come to the conclusion that a better and even pricier job is not merited? 
+
+Have you been burnt before or worked in a situation that actually did that to people? I earn every single dollar I charge for and then some.
+
+Ed
+
+True North
+
+North Pole
+
+Oct 19, 2007 · #36
+
+Ed, first off, I truly believe you deliver a superior product, and secondly, when I see a post with your name on it, it's usually worth reading.
+
+The part that I took issue with is the "sell $5000 for $10,000".
+
+By making that statement the poster has already placed a value on "the product". That value is five grand. We're not talking about perceived value. We're talking about selling a Ford as a Lincoln.
+
+I am all for selling a superior product for a higher price. That's how I make my living. I'm pretty sure that's how you make yours.
+
+Am I totally off base here?
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Oct 19, 2007 · #37
+
+arturjhawk said:
+
+Original Post
+
+
+
+but still can sell 5k for 10k
+
+
+
+I take that to mean that what most other contractors would charge for is $5,000 versus that he believes the true costs of the total project, which Brian has stated succinctly, would really work out to be a $10,000 job.
+
+Now, if the companys price list and included commission came up to around $ 5,000.00 and he knew he had some little old lady in the bag, and increased the price to $ 10,000.00 just because he felt he could get away with it, then that would be a different story.
+
+I think we may both really be on the same page or at least heading there, but our interpretations of the posters intent difer.
+
+Ed
+
+True North
+
+North Pole
+
+Oct 19, 2007 · #38
+
+Ed the Roofer said:
+
+Original Post
+
+
+...Now, if the companys price list and included commission came up to around $ 5,000.00 and he knew he had some little old lady in the bag, and increased the price to $ 10,000.00 just because he felt he could get away with it, then that would be a different story.
+
+I think we may both really be on the same page or at least heading there, but our interpretations of the posters intent difer.
+
+Ed
+
+
+
+Okay, NOW we're on the same page. I guess I just interpreted his post differently.
+
+I like that verse in the Bible that says "...the worker deserves his wages..." (Luke 10:7). It always makes me feel good to see a job well done with a fair payment in my pocket. My definition of fair may be a bit more than the infamous "going rate", but I'm confident that the work is better than the guys who charge the going rate.
+
+daArch
+
+Norfolk, MA
+
+Oct 19, 2007 · #39
+
+Brian,
+
+Many a trade mag would love to publish that, and SHOULD.
+
+Are you PDCA? Their new mag, DECō would be a perfect venue. 
+
+I know another small publication that should have that in it's article bank .........
+
+The Home Doc
+
+Onslow County, NC
+
+Oct 25, 2007 · #40
+
+I agree wholeheartedly with you Brian. I have been guilty of not knowing my numbers before, and it almost pushed me into the 99%. I was more concerned with being the lowest bidder to ensure that I won the bid. Winning battles, but losing the war. After a few jobs where I barely made any profit, and one job where I lost money, I started factoring in my overhead and raised my labor. Now, my business is moving right along. I've been underbid before, and still won the job because of salesmanship. One thing I would add though when practicing salesmanship, don't trash another contractor. Customers don't want to hear why they shouldn't go with the other contractor... they want to hear why they should go with you instead.
+
+Dan
+
+Milhaus
+
+Iowa
+
+Oct 25, 2007 · #41
+
+Great sticky gents. Perfect for my day. 
+
+I came in well over another couple guys in an estimate I put out last week. Customers were pretty concerned about price throughout the whole process. I talked with the customer today and he told me there was something wrong with my pricing. He is an architect and a past friend of sorts, so I'm intrigued by his statement, but I don't think I was overpriced. I went through this estimate three times, had someone else go through it, and knocked off some of my labor for the old friend clause. Customer really helped me out a while back.
+
+I plan on reviewing my overhead just to be positive that my numbers are right, but I am pretty confident that I understand where all the money goes when it comes in. And I NEED that money to come in to avoid being part of the failure stats in small businesses. I was up against a contractor that I have known for a while who has been in the game for over ten years. And then another guy who runs an handyman crew, but I'm not confident in his work. 
+
+Both came in substantially below me on labor. I figure my overhead into my labor costs and I think I'm reasonable - not the cheapest but definitely not the most expensive. I think a lot of it has to do with what you guys have mentioned previously. I NEED to spend some more time finding out what the going rate is, not to base my estimates off of them but to know how my competitors are going to bid. Another is that it IS the win the war mentality that pays off in the long run. I'm trying to have some integrity with the business as I grow. I don't want to drop my price just to fill the schedule. (But I admit that it is becoming more and more appealing). I've held true to it so far, and I aim to continue. Another is that I have to look at the competition - what are their goals for their business? I don't know for certain, but I have a pretty good idea that they are not looking at this the same as I. I want to run a strong, solid business that can compete with the more well known construction companies in the biz, that is not what either of them is after to my knowledge, and I don't think they will get there charging the rates they bid on this job. There is no way that they could cover overhead or profit at the rates they bid. 
+It is baffling me a bit, but I know I'm heading in the right direction with this business, and my quality is good, so I'm going to try to brush this one aside. 
+
+Thanks for the ears. And the knowledge. When I talked to the homeowner tonight - you guys were the first ones I thought of. What would the guys on the web say? Awwwww, it's a bud light commercial. You guys should be on the 'here's to you....contractor guy' commercial. 
+
+Thanks again. Oh, and sorry if I'm hijacking the thread. 
+
+Mark
+
+Milhaus
+
+Iowa
+
+Oct 25, 2007 · #42
+
+I just reread that post and I don't mean any harm to anyone who has made their biz go by dropping prices to get the word out or whatever the reason...to each his own. I'm just trying to find my little piece of the pie without having to do it.
+
+dirt diggler
+
+east
+
+Oct 26, 2007 · #43
+
+Milhaus said:
+
+Original Post
+
+I just reread that post and I don't mean any harm to anyone who has made their biz go by dropping prices to get the word out or whatever the reason...to each his own. I'm just trying to find my little piece of the pie without having to do it.
+
+
+
+why do you think you should have too??
+
+think about it in very simplistic terms
+
+your expenses WILL remain constant. Will your lender give you a break on your mortgage just because "well, things are slow"
+
+nope. and neither will vendors, the phone company, the grocery store, the gas stations, health insurance, etc.
+
+I think it's human nature to just "drop prices" ... I think people get into this panic or something - they're afraid not to get work - and just start cutting prices. They figure that they can make it up in the good times.
+
+
+Mistakes (intentional or not) in estimating WILL FOLLOW YOU down the road.
+
+
+
+
+
+
+You know, I love what I do - I really do. But there's a lot that goes with that: scheduling, staying up to date with bills, meeting deadlines, making clients happy, etc. It's not uncommon for the novelty of it all to where off quickly.
+
+It costs A LOT of money to make those things happen. It takes being realistic and awareness. You cannot just cut prices - because, most likely, your costs are staying constant. While, overall, construction is somewhat seasonal - bills are not!!!
+
+
+
+I think the one thing that seperates successful contractors from unsuccessful ones comes down to one thing: the successful contractor has total control over his estimating & pricing. I think this even surpasses workmanship, craftsmanship, etc. You can be the best bathroom/kitchen remodelor in the country ... but without a solid grip on your pricing - nobody will ever know about it
+
+
+
+i will say one more thing and then i have to work:
+
+alot of people that got into business in the early 2000s got to experience a very friendly and booming construction environment. Maybe I'm wrong - but in a sense, I think this spoiled them. I hear guys on here AND in the real world say "man, i've been in business for 7 years and I've never been this slow" ... in essence, they grew in a "easy" economy and now that things are slower, they're finding that they never really had a solid "foundation" in their business and they're paying for it now. Talk about your indian summers ....
+
+Post Edited
+
+Last edited by dirt diggler - Oct 26, 2007
+
+Susan Betz
+
+Oct 29, 2007 · #44
+
+We've seen it go both ways bidding. We always get good feedback for providing lots of specifications in our bids. But then, when we are underbid, they want our fence for the lower price. It becomes very easy to say, "the bid they gave you is not for the fence we priced." Apples to apples. If someone is bidding the same fence, and they are calculating their overhead, they will come in with approximately the same numbers. If they severely underbid us, they can have the job. We're not here to get distracted by bargain hunters and tirekickers; we tell customers when bids aren't realistic, and if that customer is all about price, we let it go. And there are companies that price higher than us - bigger fish in the sea, and it makes us look competitive. So far, there's enough work for everybody.
+
+What gets me is when these companies lowball and you KNOW they aren't going to sell them the product the client wants for that price, they just want to get them in the door for the sales pitch. I've always found that kind of selling slimy. Think car dealers. But it works.
+
+POOLMANinCT
+
+Oct 31, 2007 · #45
+
+dirt diggler said:
+
+Original Post
+
+why do you think you should have too??
+
+think about it in very simplistic terms
+
+your expenses WILL remain constant. Will your lender give you a break on your mortgage just because "well, things are slow"
+
+nope. and neither will vendors, the phone company, the grocery store, the gas stations, health insurance, etc.
+
+I think it's human nature to just "drop prices" ... I think people get into this panic or something - they're afraid not to get work - and just start cutting prices. They figure that they can make it up in the good times.
+
+
+Mistakes (intentional or not) in estimating WILL FOLLOW YOU down the road.
+
+
+
+
+
+
+You know, I love what I do - I really do. But there's a lot that goes with that: scheduling, staying up to date with bills, meeting deadlines, making clients happy, etc. It's not uncommon for the novelty of it all to where off quickly.
+
+It costs A LOT of money to make those things happen. It takes being realistic and awareness. You cannot just cut prices - because, most likely, your costs are staying constant. While, overall, construction is somewhat seasonal - bills are not!!!
+
+
+
+I think the one thing that seperates successful contractors from unsuccessful ones comes down to one thing: the successful contractor has total control over his estimating & pricing. I think this even surpasses workmanship, craftsmanship, etc. You can be the best bathroom/kitchen remodelor in the country ... but without a solid grip on your pricing - nobody will ever know about it
+
+
+
+i will say one more thing and then i have to work:
+
+alot of people that got into business in the early 2000s got to experience a very friendly and booming construction environment. Maybe I'm wrong - but in a sense, I think this spoiled them. I hear guys on here AND in the real world say "man, i've been in business for 7 years and I've never been this slow" ... in essence, they grew in a "easy" economy and now that things are slower, they're finding that they never really had a solid "foundation" in their business and they're paying for it now. Talk about your indian summers ....
+
+
+
+hence, nurture your service business.... my work is done here young grasshopper....
+
+te12c02w
+
+Nov 05, 2007 · #46
+
+Good info. I suspect, however, that there will still be those same questions asked in the future.
+
+Gordo
+
+Virginia Beach, Va.
+
+Nov 11, 2007 · #47
+
+te12c02w said:
+
+Original Post
+
+Good info. I suspect, however, that there will still be those same questions asked in the future.
+
+
+
+
+I have a bath remodel coming up. How should I charge...by the sq. foot or by the hour?￼
+
+kevjob
+
+Denver Colorado
+
+Nov 11, 2007 · #48
+
+we are charging sq ft by the hour!￼
+
+XanadooLTD
+
+Ohio
+
+Nov 11, 2007 · #49
+
+Very well said Brian. I will print this post and look at often to keep myself on a straght line. Thanks for taking the time to inform us all.
+
+rbsremodeling
+
+Washington, DC/ Maryland
+
+Nov 11, 2007 · #50
+
+One thing that is also important is to know each of your guys productivity. It may sound simple, but I know what each one of my guys does well and their average time to complete a task. If I bid a job and I know which one of my guy or guys will work on it I also know how to adjust the numbers for their average completion time on jobs. This helps if I need to be very competitive on a bid tha i really want
+
+Post Edited
+
+Last edited by rbsremodeling - Nov 11, 2007
+
+mstjohn
+
+Nov 14, 2007 · #51
+
+Remodeling Reference
+
+We've been working on publishing a free version of the Frank R. Walker Remodeling Reference book on the web at buildingcostsonline.com that is an estimating reference for remodeling work. Is the information on this site helpful for you guys to develop remodeling estimates? Any feedback you might have would be appreciated.
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Nov 14, 2007 · #52
+
+Unless the prices were regionally adjusted and had a % variable and took into consideration long term legitimate contractors overhead, instead of sole owner/sole employee pricing structures and were updated as the cost indices fluctuated, it would only offer a minor amount of advice and realistic pricing wisdom to the estimating process.
+
+I checked out the roofing and gutters section and the costs of materials are greatly under-estimated.
+
+Ed
+
+rbsremodeling
+
+Washington, DC/ Maryland
+
+Nov 15, 2007 · #53
+
+Two things I thought about that can really affect your job price. 
+Gross volume dollar amout of work vs. overhead. I am truly blessed with my guys I am able to to a much higher dollar volume of work versus what my competitors do. So my markup is 10-20% less because my overhead is the same as theirs with more gross dollar volume of work completed. 
+
+Secondly how many jobs to you do at a time. If your a one job at a time guy all your overhead is fixed on that job versus having several jobs to spread it over. Which goes back to my first comment on a higher gross volume so lower mark up to cover overhead and profit. I am of course simplying my thoughts it is a little more complicated that. 
+
+Overhead is a bigger killer for many remodelers. Depending on the size of the job it may be better to sub some of it out and save time, money and lower overhead costs
+
+BACKWOODS
+
+Shelby County Alabama
+
+Nov 17, 2007 · #54
+
+mstjohn said:
+
+Original Post
+
+We've been working on publishing a free version of the Frank R. Walker Remodeling Reference book on the web at buildingcostsonline.com that is an estimating reference for remodeling work. Is the information on this site helpful for you guys to develop remodeling estimates? Any feedback you might have would be appreciated.
+
+
+
+Labor prices seem many years outdated to me for many trades. 
+Plumber for under $30, most around my area ar $90-125 per hr.
+
+gunther.arneson
+
+Nov 17, 2007 · #55
+
+Great posts from everyone. I think it's important to know what your 'break even' rate is which means you have to understand what all of your expenses are and then go from there based on other factors (demand for services, prevailing hourly rates, etc.)
+
+rbsremodeling
+
+Washington, DC/ Maryland
+
+Nov 17, 2007 · #56
+
+Went to a construction seminar this week and they basically relayed the same message I spoke about. There theme was to up your guys prodution to lower your mark up for the lean market ahead. The seminars speaker said the average remodeler makes about 150k per employee when I check my numbers I was at 200k per employee, well ahead of the average, next year I am going to shoot for 225k which should make up for the lower dollar jobs. We use to have 300-550k jobs now they average 150-250k because of the market slow down. I have to do a few more jobs but I am going to up effeciency and try to sqeeze a bit more production out of the guys. The seminar introduced them to new methods of working by themselves to increase one person productivity. I will try some of the suggestions out now and fine tune it for next year.
+
+Pearce Services
+
+Southeastern Massachusetts
+
+Nov 18, 2007 · #57
+
+mstjohn said:
+
+Original Post
+
+We've been working on publishing a free version of the Frank R. Walker Remodeling Reference book on the web at buildingcostsonline.com that is an estimating reference for remodeling work. Is the information on this site helpful for you guys to develop remodeling estimates? Any feedback you might have would be appreciated.
+
+
+
+Although the wages are low, the productivity rates appear to be reasonable. If you apply these rates to your hourly cost, and mark up accordingly, this may be a good reference.
+
+BobEBobE
+
+Nov 18, 2007 · #58
+
+Pricing Response
+
+Vinny said:
+
+Original Post
+
+I would think perhaps you have a point.
+
+Surely, if you are consistantly loosing jobs because your too high or, conversly, have every job you looked at because your too low, there may be some value to knowing "the going rate". Has this been posted"the going out of buisness rate"￼
+
+Anyway, I digress. But the point being, and I,m sure you already know this, is that you cant run your buisness for the going rate if thats not enough for you to make profit. 
+
+Of course, everything must be in line: expenses not too high, salary not too high(or low), not paying too much on material. Then if its still not right, you gotta take another look at things like market, clients, geographic location. 
+
+And if that all looks ok, then you must start making a plan(a buisness plan) that has all components needed to make it work for you. 
+
+Back to your point, knowing "the going rate" has its uses, but you must be very carefull to know how to incorparate the info, if you chose to pay attention to it at all.
+
+
+
+j_sims said:
+
+Original Post
+
+￼Very Good post Brian...You are dead on with what you are saying.
+Early in my career I had a guy tell me, 
+" Don't worry if your price is too high, just worry if it is high enough."
+
+Again this was a long time ago...Initially I thought he had meant "get as much as you can" it took me a while to understand he was talking about what you posted.
+
+If more these "how much" guys would sit down and figure out their fixed cost and overhead cost, company and personal goals. That is 70% of the Great Estimating Mystery.
+And that also means being a little bit of a soothsayer.."How much do I need to put back for the kid's college or How many times will I have to bail junior out of the hoosegow￼...weddings, my retirement, etc.... (pretty big list by the end of it) Also, they need to update and adjust their projections frequently!
+
+I like the term " the going (broke) rate"
+Anyway, I am being redundant to what you said....good post￼
+Ya done TEXAS proud.
+
+
+
+
+￼I am new to this forum and have been reading many threads in order to acquaint myself with the information that I could obtain here. At first, I was impressed with the idea of having on-line mentors. But, I am becoming more and more disappointed as I continue to read these threads. It appears that there is an underlying "good ole boys club" mentality presented, and if one is new to the business, yall ain't too happy to see that he is successful. This keeps the competition out and ensures YOUR success, right? And, when he fails with the 99%, yall will catagorize him as lacking good business sense. Reading between the lines, I think you just don't want to give the secret ingredient to the winning recipe. The competition is stiff. If you really wanted to help the rookie, then why didn't you give him an EXAMPLE of YOUR pricing breakdown. The profit margin for "weddings" as suggested in the above formula, could easily be adjusted depending upon how many daughters the guy has, right? Don't be so smug about it. In our neck of the woods, EVERYONE in construction knows the "going rates", as do you! For EXAMPLE, a sub would bid in the market of $90.00-$100.00 per square for vinyl siding, give or take. Now, was that so difficult to do? Your disortation was informative, Brian, but you basically said that a guy who asks the "how much" question is ignorant to business. I think he is admitting that already, simply by asking the question.￼ If you don't want to give constructive instruction with REAL numbers, why don't you just say so? You should just say, "here is a formula that you can use" (I assume you have an actual formula based upon your writings.). The free-flowing formula listed above is a good example of help that doesn't help. One cannot sell a hamburger for $200.00 just because of his financial goals. Remember, there is a MacDonald's and Burger King around the corner, both having Dollar Menus.￼ I beg to differ; it is not a "gift" to be a good business person; it is exposure, information and education. This is where a good mentor would come in. I would like to see the flavor of these threads change by way of inspiring a new contractor to be the best he or she can be by giving information as to where he or she can find the good business education, of which you speak. If you don't want to share your personal bid numbers, just be clear and honest about it and tell the guy that the business is way too competitive to go down that path in this forum. Now, yall can respond with your rips￼, but when you are finished ripping, think about what I have said here, the next time you are asked these types of questions. Perhaps those of you who really would make a good mentor should start a Mentor's Forum. There, you could have easily accessible Work Order forms, Bid Grids, etc., as well as, the basics for beginning a SUCCESSFUL company. Remember the Golden Rule? What are your stories? How did you begin? Where did YOU obtain your training? Where did YOU obtain YOUR education? Really! This would be quite helpful!! Thanks!￼
+
+George Z
+
+Toronto
+
+Nov 18, 2007 · #59
+
+BobEBobE said:
+
+Original Post
+
+
+
+
+
+
+￼I am new to this forum and have been reading many threads in order to acquaint myself with the information that I could obtain here. At first, I was impressed with the idea of having on-line mentors. But, I am becoming more and more disappointed as I continue to read these threads. It appears that there is an underlying "good ole boys club" mentality presented, and if one is new to the business, yall ain't too happy to see that he is successful. This keeps the competition out and ensures YOUR success, right? And, when he fails with the 99%, yall will catagorize him as lacking good business sense. Reading between the lines, I think you just don't want to give the secret ingredient to the winning recipe. The competition is stiff. If you really wanted to help the rookie, then why didn't you give him an EXAMPLE of YOUR pricing breakdown. The profit margin for "weddings" as suggested in the above formula, could easily be adjusted depending upon how many daughters the guy has, right? Don't be so smug about it. In our neck of the woods, EVERYONE in construction knows the "going rates", as do you! For EXAMPLE, a sub would bid in the market of $90.00-$100.00 per square for vinyl siding, give or take. Now, was that so difficult to do? Your disortation was informative, Brian, but you basically said that a guy who asks the "how much" question is ignorant to business. I think he is admitting that already, simply by asking the question.￼ If you don't want to give constructive instruction with REAL numbers, why don't you just say so? You should just say, "here is a formula that you can use" (I assume you have an actual formula based upon your writings.). The free-flowing formula listed above is a good example of help that doesn't help. One cannot sell a hamburger for $200.00 just because of his financial goals. Remember, there is a MacDonald's and Burger King around the corner, both having Dollar Menus.￼ I beg to differ; it is not a "gift" to be a good business person; it is exposure, information and education. This is where a good mentor would come in. I would like to see the flavor of these threads change by way of inspiring a new contractor to be the best he or she can be by giving information as to where he or she can find the good business education, of which you speak. If you don't want to share your personal bid numbers, just be clear and honest about it and tell the guy that the business is way too competitive to go down that path in this forum. Now, yall can respond with your rips￼, but when you are finished ripping, think about what I have said here, the next time you are asked these types of questions. Perhaps those of you who really would make a good mentor should start a Mentor's Forum. There, you could have easily accessible Work Order forms, Bid Grids, etc., as well as, the basics for beginning a SUCCESSFUL company. Remember the Golden Rule? What are your stories? How did you begin? Where did YOU obtain your training? Where did YOU obtain YOUR education? Really! This would be quite helpful!! Thanks!￼
+
+
+
+Give a man a fish... never mind.
+Why would you want Brian's or somebody else's stinky fish anyway?
+That information is available for everyone to see, just search for it.
+I got a lot of my information from these boards, it was useful.
+There is no old boys' club.
+I remember not long ago, I asked some of the people here questions,
+I got some very useful information from people like Brian, ProwallGuy
+No secrets, what you are reading is indeed as good as it gets.
+Be open minded and learn how to fish yourself.
+
+dirt diggler
+
+east
+
+Nov 18, 2007 · #60
+
+George Z said:
+
+Original Post
+
+Give a man a fish... never mind.
+Why would you want Brian's or somebody else's stinky fish anyway?
+That information is available for everyone to see, just search for it.
+I got a lot of my information from these boards, it was useful.
+There is no old boys' club.
+I remember not long ago, I asked some of the people here questions,
+I got some very useful information from people like Brian, ProwallGuy
+No secrets, what you are reading isindeed as good as it gets.
+Be open minded and learn how to fish yourself.
+
+
+
+George ... for once ....
+
+
+
+￼￼￼
+
+
+
+
+Bob - as great as it is to have a forum like this ... i think some might mistakingly be looking for the "simple answers" to huge questions.
+
+
+Can you blame someone who has worked so hard to accomplish what they have to feel a little offended perhaps by some of those type of questions?
+
+
+Personally, I think it's a bit assuming. Gotta be sharp in this biz ... and gotta learn fast. Mistakes can happen once ... after that - you're either lazy or stupid if they happen again.
+
+
+
+I think this forum is great. But it it should not be The Internet Guide to Contracting. Someone who wants to look at it that way probably is not going to fair well in an already unstable, volatile type of life/career
+
+JumboJack
+
+Lakewood CA.
+
+Nov 18, 2007 · #61
+
+I agree with the OP 100%...But I think where a lot of new contractors mainly GC's have a problem coming up with the right numbers is knowing
+what to allow for subs.It is one thing to know how much it is going to cost to do something you yourself are going to do.But it is be quite another thing
+to know how much to budget for plumbing,electrical,paint and what not when you have been a framer forever.It is a catch 22 in that before you get your GC license you should not have been doing any contracting.But now that you have it where do you go to find out how to price your jobs?
+I know asking a message board "How much should I charge" is not the way to do it but it is a tricky thing none the less.....
+
+haywardrichie
+
+Nov 19, 2007 · #62
+
+that is a very nice post Brian. Wish that my small town in Alaska new this. And all over the world for that case. thks
+
+Bone Saw
+
+Nov 19, 2007 · #63
+
+Brian said:
+
+Original Post
+
+I'm not very concerned with what others charge. Most of them don't know what they are doing, won't be around in a few years, and certainly don't offer what I do.
+
+WOW, I agree with that 100%, that simple philosophy is my driving force both in buisness and in life￼
+
+rbsremodeling
+
+Washington, DC/ Maryland
+
+Nov 19, 2007 · #64
+
+I will re-answer this questions because it has been pointed out many times how important it is and want to simplify it for the new contractors 
+
+Using the (what other guys charge) or (sqft method ) does not work. It can provide a basis of price comparison for what you rate is but that is it. 
+
+You have to know all the information that Brian told you about in the orginal post. Your rate, cost, sqft price is based on your individual numbers. It can't be given to you by anyone here only by you solving the equation yourself by filling in the number blanks as they relate to your business/company. 
+
+Now the hard thing i think for new contractors to understand is, if your numbers are higher than the going rate, then you justify your cost by doing good work, have something that makes your company stand out for the better doing good work and getting good referals etc so your increased price is not an issue because your reputation is solid and proceeds you.
+
+Now if your new and do not have the solid reputation. Until you get to that point you will have to either increase productivity. or lower overhead cost if you have no other choice but to match the going rate especially if you are a new contractor until your reputation is solid enough to command the pricing you need without the intial hassle you have as a new contractor. 
+
+But in your early years and until you hang up your tool belt you have to go above and beyond in the quality of work, attitude and knowledge to be seen as the best of the best and qualify for that higher asking price you need and deserve.
+
+I went to a sales seminar many years ago and the guy ask me if I knew how to get a 100K kitchen remodeling price on a job and I spouted of specs on custom cabinet pricing, appliances, custom features needed etc. When I was done he said it was easier to just ask for it. again I am simplifing the answer but I hope you get the drift.
+
+One of the greatest compliments a customer gave me was while refering me to a friend he told his buddy upfront that I was expensive but worth every penney he paid me and would hire us again in a heart beat.
+
+This was a compliment because I felt he valued my services enough to recommend me to one of his buddy and also felt his money was well spent. If you get hundreds of customers like this in your career, it makes the pricing alot easier.
+
+Post Edited
+
+Last edited by rbsremodeling - Nov 19, 2007
+
+Double-A
+
+Arkansas
+
+Nov 19, 2007 · #65
+
+BobE, if you want the secret, here it is in a nutshell. The secret to a successful small business is as simple as the Golden Rule.
+
+Do unto others as you would have them do unto you.
+
+Be fair, reasonable, flexible, reliable, trustworthy, respectful and kind in all you do and you will be successful.
+
+Say what you will do, and do what you said you would, on schedule, on budget and with a smile. Treat your client's home as your own. Pay your help as well as you would like to be paid. Pay your creditors with the respect they are due... They are the folks that believe in you and floated you the loan in the first place.
+
+Forget the 'going rate'. Its the first and last defense of the fool in this business. It is a fantasy, it doesn't exists except for moment in time to serve a particular need. Then it disappears like the tooth fairy, to await the next time someone needs to be calmed because things do what they do best. They change.
+
+Giovanni
+
+Seattle Area
+
+Nov 19, 2007 · #66
+
+BobE you will have a hard time trying to rant people on here into giving you a free education. The vast majority paid a very dear price for their knowledge at the school of hard knocks and for you to wade in bellowing like a spoiled two year old is insulting to both you and those here who willingly share what they do.
+
+You will have about the same success as walking into a Harvard professor's office and yelling until he gives you a MBA. There's an old saying that goes: "You can't learn anything with your lips flapping" and that applies to typing in bold as well.
+
+Tom M
+
+Bergen County, NJ
+
+Nov 19, 2007 · #67
+
+I like Double-A's view. Sometimes being too nice is painful as well. I needed to learn to charge more and be comfortable doing it.
+
+orson
+
+Millersville, PA
+
+Nov 23, 2007 · #68
+
+Industry Standard Net Profit %?
+
+I can understand you guys not wanting to get too specific with numbers pertaining to your businesses, however, isn't there some sort of general industry standard for net profit %?
+
+For example, my cousin does maintenance and project management for a decent sized non-profit housing company and he mentioned that most government contracts usually cap at a 10% margin, and i believe he meant gross profit.
+
+I know from my experience that when I run a remodel job for a GC, and I'm acting as a subcontractor but running the job I can mark up my subs invoices 10%, as well as marking up materials 10%.
+
+When i was in the restaurant business there were industry standards on net profit...if u were making 3% u were doing ok, 5% was considered good, and at 10% you should be writing a how-to manual. Is there some generality you can make about this in the remodel trade?
+
+Thanx for any input
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Nov 23, 2007 · #69
+
+Yes there is.
+
+The lower your net profit margin, the more likely you will be out of business soon.
+
+Over 90 % of all contractors are out of business within 5 years.
+
+Should I base my numbers on using them as my reference point?
+
+I think not. I would rather use the remaining 10 %, or better yet, the remainming 2 % to 4 % who have survived 10 years, as my guage for enlightenment.
+
+Ed
+
+orson
+
+Millersville, PA
+
+Nov 23, 2007 · #70
+
+not to beat a dead horse Ed, but that's still pretty mysterious....should I read that as "No, unlike most other industries in the world there is no general standard of profit margin for remodeling"....?
+
+Ed the Roofer
+
+NW Suburbs of Chicago
+
+Nov 23, 2007 · #71
+
+You may be correct in that assumption.
+
+How much profit does each individual operating a business desire?
+
+If they do $ 100,000 gross volume can that be achieved? 
+
+If they need to do $ 500,000 gross volume, is it now attainable at a lower margin?
+
+Do they desire for their company to offer health and pension benefits, firtly for themselves, but in some scenarios, for their key or at large employees?
+
+How much net profit are they willing to give up to do so?
+
+As with all percentage questions, their will inevitably be a range of numbers that many contractors could lay claim to achieving, but their also are those that produce extremely higher net results.
+
+If 10 % is your desired goal, should it make a diference to you, what mine or anyone elses would be?
+
+Run the business per your mold and not anyone elses.
+
+Ed
+
+Grumpyplumber
+
+Nov 24, 2007 · #72
+
+Interesting thread, very interesting.Ask one shop what their rate is for a 50 gal powervented water heater and they could be as much as $200 different from the next.Usually larger companies charge more, mainly for the advertizing and overhead.On my estimates/rates I just know what each task takes as far as time and stock, tack on downtime, advertizing, overhead & stock markup to cover handling and ordering.
+
+Whats ironic is I came up with my own prices before I even went into self employment, a year later a friend gave me a copy of the flat rate book for the current year and it turns out my rates were pretty much the same as the "going rates".Then there are the lowballers, guys who either cut their price in eagerness to get the work, or fold in fear of a slow market.To those of you who do that, here's an interesting observation of mine...There are slow spurts when the calls stop coming and followups on estimates don't yet pan out.Then the calls start coming again, on that first call your nails are bitten to nothing, you're ready to work like a dog to make a profit for the month.You take the quick loss just to pay the bills.Then the other calls start coming once you're committed to the job for short money, your competition is grateful to you.Then theres the word of mouth thing.Are your referrals coming from customers saying "Bob, I had a painter who works real cheap, here's his number."? ...or, "Jim, I had a painter that did an incredible job, very neat and meticulous, here's his number."In the long run, you reap what you sow.
+
+Dominion
+
+Dec 18, 2007 · #73
+
+Susan Betz said:
+
+Original Post
+
+We've seen it go both ways bidding. We always get good feedback for providing lots of specifications in our bids. But then, when we are underbid, they want our fence for the lower price. It becomes very easy to say, "the bid they gave you is not for the fence we priced." Apples to apples. If someone is bidding the same fence, and they are calculating their overhead, they will come in with approximately the same numbers. If they severely underbid us, they can have the job. We're not here to get distracted by bargain hunters and tirekickers; we tell customers when bids aren't realistic, and if that customer is all about price, we let it go. And there are companies that price higher than us - bigger fish in the sea, and it makes us look competitive. So far, there's enough work for everybody.
+
+What gets me is when these companies lowball and you KNOW they aren't going to sell them the product the client wants for that price, they just want to get them in the door for the sales pitch. I've always found that kind of selling slimy. Think car dealers. But it works.
+
+
+
+I hear this frustration. What kind of specifications are you including in your bid aside from identifying materials?
+
+Abram Germano
+
+Poughkeepsie, NY
+
+Dec 21, 2007 · #74
+
+Vinny, I agree that a financial education is a plus for anyone in business but to regard the men in the field with the attitude that they have "ditch digger heads" is wacked. Anyone can learn business skills through practical training, and lets not forget, for most of us, without them we wouldn't have a job.
+
+charles_tx
+
+North Texas
+
+Dec 25, 2007 · #75
+
+Brian said:
+
+Original Post
+
+
+
+There seems to be no shortage of hacks willing to work for dirt cheap prices. Nor does there seem to be a shortage of replacements when they inevitably fail. One of the most effective means for avoiding failure is to know your numbers. Asking what to charge for a job is simply an admission that you don’t know your numbers.
+
+
+
+
+Hi Brian
+
+Very informative information, the problem (here in Dallas) is people have been brainwashed by the media so much that labor is cheap due to the 15 plus million illegals in the US doing the jobs we Americans don't want to do that they think they "deserve" getting their home repairs/remodels ect.. for almost nothing. 
+
+So I just don't see how "knowing your numbers" will actually help when you have HO'ers thinking they "deserve" dirt low prices for services and illegals bidding the same job you are, 50% lower. 
+
+
+Charles
+
+Post Edited
+
+Last edited by charles_tx - Dec 25, 2007
+
+Kaiser
+
+Melbourne, Fl
+
+Jan 22, 2008 · #76
+
+I have to disagree with Bob. Software is like any other tool it is up to the user to keep it up.
+The Software I use allows me to change any cost I choose before I plug in my numbers.
+
+onenia
+
+Houston, TX
+
+Jan 28, 2008 · #77
+
+Excellent Brian! Well said and to the point. My last 4 estimates to HO's
+have been under cut by low ballers and the HO's went with them strickly on price. So reading your post is just a good reminder to keep moving forward, have a positive attitude and good customers and quality jobs will come.
+
+
+Thanks,
+
+Nia
+
+Standstrong
+
+Jan 29, 2008 · #78
+
+I typically use 12-17% profit margins if GC'ing a given project.
+It's pretty proportional to time spent. It doesn't matter to me if my belt is on, or I'm on my phone managing a project. It pays the same as far as I'm concerned. Otherwise I would just do one and not the other. 
+
+
+I make a living. Sometimes it's hard to discriminate what is actual profit. I don't really ever have "Profit." I mean I eat well, every now and then someone may accidentally put a little rum in my soda, but I also invest most of my extra money into tools, trucks, and equipment. I donate to my IRA but that's also considered a business expense. It's more of a way of life for me.
+Get more tools to get more jobs to get more tools to get more jobs.
+
+Somewhere in there I pay off everyone I can.
+
+I tried to use a software estimator (without double checking) a few years ago and I lost my ass. So I learned no-one can tell you what you need to charge. Find some guys in your area who are doing well, and ask them how to charge. That's what I did.
+
+silvertree
+
+North Oaks,MN
+
+Jan 29, 2008 · #79
+
+There is a lot of advice out there but the guys on this thread keep going back to---What are your costs---What do you need to grow your business?
+I use the cost x method. $10000 cost x1.50 or 1.60 or 1.70. Depending on clients or difficulty. All my jobs make money some more than others. I am a small contractor but I make a good living. I always sell my jobs for more than they cost to produce. Good estimating is the key. If you are not a good estimator always get your subs to bid and have your vender's price in hand before you start to think sales price. RBS made a good point about the $100,000 kitchen, I like to hear things like that more than once so they get through the thickness of my skull.
+
+ultimatetouch
+
+chicago
+
+Feb 01, 2008 · #80
+
+All of us should desire more money and greater profit margins. There should be a price point to where we all would not go beneath clearly its better for everyone in our business. Those guys saying 10% and even 15% should set that to 30 or 40% at minimum.
+But you have some guys who dont need as much money and profit to survive and thats all there looking for. They keep there living expenses down and try to do as much as they can themselves. It all depends on what you are happy with taking home at the end of the year. The guys that are never satisfied most likely make the most money and have the best profits. Always wanting more and figuring out ways to support it when it comes.
+
+HomeMedia Pros
+
+Houston
+
+Feb 02, 2008 · #81
+
+Margins - Volume - Big Picture
+
+ultimatetouch said:
+
+Original Post
+
+All of us should desire more money and greater profit margins. There should be a price point to where we all would not go beneath clearly its better for everyone in our business. Those guys saying 10% and even 15% should set that to 30 or 40% at minimum.
+But you have some guys who dont need as much money and profit to survive and thats all there looking for. They keep there living expenses down and try to do as much as they can themselves. It all depends on what you are happy with taking home at the end of the year. The guys that are never satisfied most likely make the most money and have the best profits. Always wanting more and figuring out ways to support it when it comes.
+
+
+
+So what is wrong with my logic;
+
+We are the lowest price contractor in our area. The sales guys (can’t hire fast enough) bring deals by dozens. Number of employees grows almost monthly. The business model is simple: Sales targeted to sell over 10M per year. Accounting / Operations run net margin of 10% (which keeps us the lowest in the area). If my math was correct 10% of 10M is 1Million - On a scale of single man or a few employees the 10% margin would shut the business down. But on larger scale its a million bucks.
+
+Mar 16, 2008 · #91
+
+I was told by a wise old man one time, "Busy Busy Busy, Bankrupt"
+
+You can be the lowest price guy in town but if all it does is keep you busy then whats the point?
+
+Margin is where its at. I put job cost into my program and it puts the burden and profit in for me, that way I don't feel pressured to change the price cuz of a customers sob story. 
+We have a reputation and a price, you either want us to do the work or you don't.
+
+St Anger
+
+British Columbia Canada
+
+Mar 25, 2008 · #92
+
+RobertCDF said:
+
+Original Post
+
+You think they will read this and not still ask? I hope so. From now on I will just post a link to this sticky whenever someone asks a pricing question.
+
+
+
+
+So in other words,you have nothing of substance to add.You either do not know,or are not willing to impart the benefit of your experience to someone who came to this forum for its intended purpose.I have so far made only one post,and that was for help in determining a price.As Brian said,pricing is arguably one of the most important aspects of running a business.So rather than directing someone to Brians very astute post,why not just,say nothing at all.
+
+Double-A
+
+Arkansas
+
+Mar 25, 2008 · #93
+
+St Anger said:
+
+Original Post
+
+So in other words,you have nothing of substance to add.You either do not know,or are not willing to impart the benefit of your experience to someone who came to this forum for its intended purpose.I have so far made only one post,and that was for help in determining a price.As Brian said,pricing is arguably one of the most important aspects of running a business.So rather than directing someone to Brians very astute post,why not just,say nothing at all.
+
+
+
+And have them miss this post of Brian's? How would that be helpful? Some folks don't know they can search the forums. Having the link posted in answer to their question might just be the answer they were looking for. Nothing at all certainly wouldn't be the answer they were looking for.
+
+St Anger
+
+British Columbia Canada
+
+Mar 28, 2008 · #94
+
+Double-A said:
+
+Original Post
+
+And have them miss this post of Brian's? How would that be helpful? Some folks don't know they can search the forums. Having the link posted in answer to their question might just be the answer they were looking for. Nothing at all certainly wouldn't be the answer they were looking for.
+
+
+
+
+Point taken.My apologies for jumping to conclusions.It is a very insightful read.
+
+corona2005
+
+Des Moines IOWA
+
+Apr 08, 2008 · #95
+
+i need help on bid a job im new to this
+
+Brian said:
+
+Original Post
+
+One of the most challenging aspects of running a contracting business is estimating jobs. For someone with little experience, estimating can be a rather scary endeavor (it can also be scary for someone with tons of experience). After all, the accuracy of the estimate will have a huge impact on the contractor’s success.
+
+This, I believe, is the primary reason we see so many questions asking what to charge for a job. But such questions are misdirected, because what I (or anyone else) would charge is completely irrelevant and doesn’t address the real issues.
+
+The price of a job is comprised of 4 basic components: labor costs, material costs, overhead, and profit. Estimating is the process of identifying the labor and material costs. We add our overhead and profit to those costs to obtain our price.
+
+Overhead—advertising, rent, insurance, utilities, phone, owner’s salary, etc.— is completely unique to each company. Without knowing these numbers, it is impossible to properly price a job.
+
+Profit goals are also unique to each company. Again, without knowing the specific profit goals for a company, it is impossible to properly price a job.
+
+Consequently, any attempt to answer a pricing question in the absence of these two key numbers is essentially meaningless. More to the point, pricing questions ignore the fact that a large percentage (often more than 50%) of the job’s price should be comprised of overhead and profit. (My suspicion is that those who pose such questions don’t know their overhead, and mistake gross profit for net profit. But that’s a different issue.)
+
+As I said, estimating is the process of identifying the labor and material costs for the job. Labor costs are determined by the type of work being performed, the production rates of the company’s workers (the time required to perform each task), and pay rates. As with overhead and profit, these numbers will be unique to each company. Material costs are determined by the type of materials required, the quantity required, and their purchase price.
+
+For example, let us say that a painting contractor knows that his painters can prepare and paint a certain style of door in 30 minutes. He looks at a job that has 10 of these doors. He knows that his painters can prep and paint these doors in 5 hours. He can also calculate the materials required by the spread rate of the product he will use. The contractor can now determine what his costs will be for the job. By adding his overhead and profit to these costs he will have his price for this job.
+
+While the above example is simple and uses a painting project, the same principle applies to every contracting job—large or small, simple or complex—regardless of trade. 
+
+What should I charge for X? really means: what is the total of my labor costs, material costs, overhead, and profit? And the answer to that question requires a substantial amount of additional information. Providing an answer without that information is simply a guess.
+
+Accurately pricing a job is not rocket science, but it shouldn’t be based on conjecture, blind guesses, or another company’s numbers either. Certainly accurate estimating takes effort, but owning a successful business isn’t easy. Asking what to charge for a job is asking for a short cut, but there are no short cuts to success.
+
+Such questions about prices for a job are inappropriate, because they ignore the many factors that determine the price. Providing a price in response to such questions is also inappropriate, for the same reasons.
+
+It is a documented fact that 90% of small businesses fail within 5 years. Of those that make it 5 years, another 90% will fail within the next five years. Which means, 99% of small businesses fail within 10 years. One of the primary reasons for failure is not charging enough. Contractors are as guilty of this as anyone.
+
+There seems to be no shortage of hacks willing to work for dirt cheap prices. Nor does there seem to be a shortage of replacements when they inevitably fail. One of the most effective means for avoiding failure is to know your numbers. Asking what to charge for a job is simply an admission that you don’t know your numbers.
+
+I hasten to add that there is nothing wrong or inappropriate with asking how to price a job. But how to price is different from whatprice to give. Learning the process is a good thing. Looking for an easy way out isn’t.
+
+Putting paint on the wall is a trade skill. Pricing a job is a business skill. A skilled craftsman does not necessarily make a good businessman, because different skills are required. The owner of a contracting company does not necessarily need to have trade skills, but it is imperative that he have business skills if he is to succeed. The longer you wait to obtain those skills, the closer you move to joining those 99%.
+
+Brian Phillips
+
+im from iowa and i been framin for 7 yrs now i just started my own bussiness i know ho to do framing,siding,tile roof, most of the houses the i work on were 3000 to 6ooo sqft but i don't know how much to charge or what r the prices outhere on framing per sqft if any one outhere could help me i would preciate
+
+john elliott
+
+near Swindon in England
+
+Apr 09, 2008 · #96
+
+corona2005 said:
+
+Original Post
+
+im from iowa and i been framin for 7 yrs now i just started my own bussiness i know ho to do framing,siding,tile roof, most of the houses the i work on were 3000 to 6ooo sqft but i don't know how much to charge or what r the prices outhere on framing per sqft if any one outhere could help me i would preciate
+
+
+
+
+Are you sure that starting a business is the right thing for you? Does it suit your talents? What you are saying here, in effect, is that you know how to do the job but that you don't know how to run the business. Would you be better off as an employee?
+
+If you are sure that starting a business is the right thing to do then you need to start reading. There are masses of threads here, especially in the business section.
+
+There is NO going rate. If whatever you read doesn't convince you of this then you are reading the wrong stuff, or you aren't taking it in. I would suggest you read through this particular thread again, and this time concentrate
+
+John
+
+rbsremodeling
+
+Washington, DC/ Maryland
+
+Apr 09, 2008 · #97
+
+Wrong thread￼
+
+Boogga
+
+Canberra
+
+Apr 13, 2008 · #98
+
+Just briefly;
+
+I just recently priced a job for two homes on one block of land. I said I'll price it cheaper because of two house (same size and design) and nice bloke (HO) etc. I priced them at $465,000. I rang the bloke up to tell the price and he said he had prices ranging from $520,000 as the highest and the lowest which he'll go for, was $368,000. Some cowboy priced that and how he will manage with making money on that figure, only God knows. 
+
+A few months back there was this "price v's quality" article. Where is it now? Does anyone know? Please let me know cause I'd like a copy of it. Thanks!
+
+Bleed
+
+Darien, IL
+
+Apr 18, 2008 · #99
+
+just my .02
+
+BobEBobE said:
+
+Original Post
+
+
+
+
+
+
+￼I am new to this forum and have been reading many threads in order to acquaint myself with the information that I could obtain here. At first, I was impressed with the idea of having on-line mentors. But, I am becoming more and more disappointed as I continue to read these threads. ...
+
+
+
+
+I belive that everything should start from your own goals. How much money you wanna make a day/week/month/year/...life time?
+For an example, you are estimating a mid size master bath remodeling project (complete gut out), and you are going to do it on your own, without any helpers. Lets say you will spend 2 weeks on the job site, 10 hours a day, 6 days a week.
+All of that brings us to approx. 120 hrs (give or take) to get the job done, aight? Now, the question is HOW MUCH you think your hour of labor is worth to YOU? $8? $12?.......$40?.....$120?......
+-Lets tackle the ball here for a sec.
+What kind of a lifestyle you like? Do you go to McDonalds/BurgerKing for a dinner or you would like to go to a nice restaurant where you actually will ENJOY your meal? Do you plan to help your kids to graduate from the college or a HS only? You wanna live in a 1100 sf. condo, or you would preffer living in a nice 4500 sf. single family home? Whatever the answers to these questions are, they represent your goals in life, they basically represent HOW MUCH you value your self^^. With that said, lets get back grinding the numbers again (;
+Lets assume you wanna get paid $20/hr. That will bring you to the labor estimate of $2400.00 before taxes. Lets assume your overhead is roughly @ $2500.00/mo. (Since you will spend 2 weeks on this jobsite, lets assume you will have another job simillar to this one to fill out the 2nd half of the month, and keep you busy). Split your overhead by half(making another half with your 2nd. job) and add your labor cost to it. That brings us to $3650.00, add your taxes to it and that could be your rough labor estimate. 
+
+Personally, This is what I`d do. I`d estimate it for $12k for the labor. Two of my guys would get it done in a 5-7 days. (They make $45/hr each round year.) As you start growing, find more excellent workers, and pay them properly, spread out the business and in 1 year after you start, you could have 5 teams with 2 guys in it. 
+
+Of coarse you will get underbid by other "contractors" every here and there, but if you do a great job and stand before it, you`ll do just fine (; 
+As someone said in earlier post somewhere on the other thread, its a game of numbers, just play it with different ones and I`m sure you`ll find those that suit you best.
+I hope this helps,
+Regards
+
+MadDog
+
+Apr 23, 2008 · #100
+
+True North said:
+
+Original Post
+
+So Ed, if some slick talking @sshole sold your 85 year mother something for double what it's worth, that would be okay by you?
+
+You guys... *shakes head*
+
+
+
+
+At 85 the old bag should know better.
+
+Oldcarpenter
+
+Apr 28, 2008 · #101
+
+Great Post.
+Thanks Brian.
+
+gj2802
+
+London
+
+May 01, 2008 · #102
+
+When you position yourself as an expert in your industry, your customers will come to you in their droves and price is immaterial.
+
+I have a contracting business in the UK and we clearly state that we are not the cheapest, in fact we purposely position ourselves above everyone else.. but we will deliver the BEST result..Guaranteed.
+
+I don't even look at competitors prices, it's of no interest. When you posture yourself and your business higher than others..you have to deliver.
+
+Graham
+
+Alphabuilder422
+
+Silicon Valley milpitas / San Jose / Cupertino CA
+
+May 26, 2008 · #103
+
+My father has been in business for over 20 years. His success in keeping the business success and alive was mainly in part in keeping a relation with the community and the giving to church/ temple / and community. This kept him busy 6 days a week and he never stop what worked for him. Todays business is a little more advance and that the challenge now is being completive and creditable to the client. Website, professional business card and letterhead makes a different. or do they... My father's business never needed a website. now that i think about it.
+
+brutis
+
+May 26, 2008 · #104
+
+RobertCDF said:
+
+Original Post
+
+You think they will read this and not still ask? I hope so. From now on I will just post a link to this sticky whenever someone asks a pricing question.
+
+
+in this case one of the best , of this forum would be null, personally 
+
+i would like to thank every one on here that dose help with priceing and keep it up, 
+
+most owners as you all know try to keep priceing in the dark for installers 
+
+but come on now to the original post, at some point you ask or peak on a paper to find things out in the begining so why not ask it here? so at least you did the research on your own not from your employer to build or start or exspand unless you got in from daddy's bess. and had everything handed to ya !!!!!!!!!!!!!! 
+
+i found this site just to find out if my priceing was inline for hardie board i was close to the average but a little low 
+
+as far as pricing if you ask here your not going to get a pefect answer but thanks to the good people you can get enough information to help you figuire out what you need \
+
+
+keep helping each other , it will come back to you six fold
+
+brutis
+
+May 26, 2008 · #105
+
+[quote=Oldcarpenter;429603]Great Post. Thanks Brian.[/quote [IMG]http://img.contractortalk.com/smilies/whistling2.gif[/IMG]
+
+Kaabi
+
+Jun 03, 2008 · #106
+
+That's a great description of how estimates work. There are so many factors that go into pricing, that one little number doesn't do justice to how much thought goes into the final price decision.
+
+pscinteriors
+
+Burien, WA
+
+Jun 07, 2008 · #107
+
+Oky guys, so I have a friend who started a fencing company a few years ago.he started with no experience in the industry and learned it all from his brother .He is now the sole owner of his company, and recently has been trying to expand to tile,remodeling, and flooring but he knows nothing about it.
+I have owned my business for allmost 5 years now and have had to learn estimating by learning from my mistakes, and lots of research.I also track all my jobs and my estimating is alot more accurate now than it was when I started as it is with most of you I'm sure.
+Now problem is that Ive been friends for tis guy for like 10 years, and he keeps calling me to ask how bid certain jobs.Asking things like"how long" "what would I charge per foot for tile" etc.He is bidding lots of jobs and keeping a crew of 10 busy, but not making ny money. Also ive seen some of his jobs and his estimates for them.Just cause Ive had to fix some his guys shoddy work. He is definitely a low-baller and his work shows it.But I think it is due to his lack of knowing better.
+I dont want my name any where near his work! And I am getting tired of the "how do I estimate this calls" ? How do I tell a friend with tact that hes needs to figure it out on his own?
+Thank You,
+Nick
+
+welovepainting
+
+Jun 12, 2008 · #108
+
+￼
+
+Brian said:
+
+Original Post
+
+Since 99% of the contractors starting business today won't last 10 years, and since most of them aren't charging enough, I'm not sure why knowing the "going rate" will be helpful. The "going rate" is really the "going broke rate".
+
+I suppose it would be helpful in the sense that if I'm charging the "going rate" I better raise my prices. 
+
+I'm not very concerned with what others charge. Most of them don't know what they are doing, won't be around in a few years, and certainly don't offer what I do.
+
+I think too many contractors are more concerned about price than the customer is. Too many contractors think the only way to get a job is to have the lowest price. Getting a job is the operative phrase-- they are trying to get a particular job and not build a business.
+
+Anyhow, I appreciate all of the comments, both pro and con. 
+
+Brian Phillips
+
+welovepainting
+
+Jun 12, 2008 · #109
+
+www.costestimator.com may help 
+
+pscinteriors said:
+
+Original Post
+
+Oky guys, so I have a friend who started a fencing company a few years ago.he started with no experience in the industry and learned it all from his brother .He is now the sole owner of his company, and recently has been trying to expand to tile,remodeling, and flooring but he knows nothing about it.
+I have owned my business for allmost 5 years now and have had to learn estimating by learning from my mistakes, and lots of research.I also track all my jobs and my estimating is alot more accurate now than it was when I started as it is with most of you I'm sure.
+Now problem is that Ive been friends for tis guy for like 10 years, and he keeps calling me to ask how bid certain jobs.Asking things like"how long" "what would I charge per foot for tile" etc.He is bidding lots of jobs and keeping a crew of 10 busy, but not making ny money. Also ive seen some of his jobs and his estimates for them.Just cause Ive had to fix some his guys shoddy work. He is definitely a low-baller and his work shows it.But I think it is due to his lack of knowing better.
+I dont want my name any where near his work! And I am getting tired of the "how do I estimate this calls" ? How do I tell a friend with tact that hes needs to figure it out on his own?
+Thank You,
+Nick
+
+aikenback
+
+Jun 13, 2008 · #110
+
+Business 101, as your company grows, your overhead grows with it, but as a percentage of gross sales, your overhead decreases with growth.
